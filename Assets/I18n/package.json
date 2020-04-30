@@ -2,7 +2,7 @@
     "name": "com.flycarl.i18n",
     "displayName": "I18n",
     "description": "internationalization has 18 characters between i and n",
-    "version": "1.0.0",
+    "version": "1.0.1.preview1",
     "unity": "2018.4",
     "license": "MIT",
     "dependencies": {}

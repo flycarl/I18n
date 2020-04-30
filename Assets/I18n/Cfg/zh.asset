@@ -1,0 +1,822 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 543ae21d8397d4564a7e221759be361e, type: 3}
+  m_Name: zh
+  m_EditorClassIdentifier: 
+  words:
+  - key: languageName
+    word: "\u4E2D\u6587"
+  - key: COIN SHOP
+    word: "\u91D1\u5E01\u5546\u5E97"
+  - key: DAILY GIFT
+    word: "\u6BCF\u65E5\u793C\u5305"
+  - key: VIP SUBSCRIPTION
+    word: "\u4F1A\u5458\u8BA2\u9605"
+  - key: GET
+    word: "\u83B7\u5F97"
+  - key: COINS
+    word: "\u91D1\u5E01"
+  - key: WATCH VIDEO FOR
+    word: "\u770B\u89C6\u9891\u5F97"
+  - key: VIP DOUBLE COLLECT
+    word: "\u4F1A\u5458\u53CC\u500D\u9886\u53D6"
+  - key: Next Gift
+    word: "\u4E0B\u4E2A\u793C\u7269"
+  - key: SUPER PACK
+    word: "\u8D85\u7EA7\u793C\u5305"
+  - key: Non-Rewarded Ads Removed
+    word: "+\u53BB\u9664\u5E7F\u544A"
+  - key: Limited Skin
+    word: "+\u9650\u5B9A\u76AE\u80A4"
+  - key: SUBSCRIPTION
+    word: "\u4F1A\u5458"
+  - key: 3 Days Free Trail
+    word: "3\u5929\u514D\u8D39\u8BD5\u7528"
+  - key: First 2 Hints Free Everyday
+    word: "+\u6BCF\u59292\u6B21\u514D\u8D39\u63D0\u793A"
+  - key: Daily Gift Double Collect
+    word: "+\u6BCF\u65E5\u793C\u5305\u53CC\u500D\u9886\u53D6"
+  - key: VIP Only Skins
+    word: "+\u4F1A\u5458\u9650\u5B9A\u76AE\u80A4"
+  - key: WEEKLY
+    word: "\u6BCF\u5468"
+  - key: SPECIAL
+    word: "\u7279\u522B"
+  - key: MONTHLY
+    word: "\u6BCF\u6708"
+  - key: Weekly Special
+    word: "\u5468\u4F1A\u5458"
+  - key: Monthly Special
+    word: "\u6708\u4F1A\u5458"
+  - key: Yearly Special
+    word: "\u5E74\u4F1A\u5458"
+  - key: / Week
+    word: "/\u5468"
+  - key: / Month
+    word: "/\u6708"
+  - key: / Year
+    word: "/\u5E74"
+  - key: SKIN SHOP
+    word: "\u76AE\u80A4\u5546\u5E97"
+  - key: USING
+    word: "\u4F7F\u7528\u4E2D"
+  - key: Subscription Only
+    word: "\u4F1A\u5458\u9650\u5B9A"
+  - key: Super Pack Only
+    word: "\u8D85\u7EA7\u793C\u5305\u9650\u5B9A"
+  - key: BackGround
+    word: "\u5317\u4EAC"
+  - key: Ball
+    word: "\u7403"
+  - key: Pen
+    word: "\u7B14"
+  - key: Ink
+    word: "\u58A8\u6C34"
+  - key: USE
+    word: "\u4F7F\u7528"
+  - key: RESTORE
+    word: "\u6062\u590D"
+  - key: SHARE
+    word: "\u5206\u4EAB"
+  - key: guide_text_line
+    word: "\u753B\u4E00\u6761\u7EBF"
+  - key: guide_text_bridge
+    word: "\u753B\u4E00\u4E2A\u6865"
+  - key: guide_text_slope
+    word: "\u753B\u4E00\u4E2A\u659C\u5761"
+  - key: guide_text_lines
+    word: "\u753B\u4E24\u6761\u7EBF"
+  - key: guide_text_block
+    word: "\u753B\u4E00\u6761\u7EBF\u6321\u4F4F\u65B9\u5757"
+  - key: CHAPTER
+    word: "\u7AE0\u8282"
+  - key: LEVEL
+    word: "\u5173\u5361"
+  - key: LAST PLAY
+    word: "\u4E0A\u6B21\u73A9\u5230"
+  - key: NEXT
+    word: "\u6062\u590D\u65F6\u95F4:"
+  - key: Ink Left
+    word: "\u5269\u4F59\u58A8\u6C34"
+  - key: Record
+    word: "\u7EAA\u5F55"
+  - key: LEVEL WIN
+    word: "\u5173\u5361\u901A\u8FC7"
+  - key: WATCH VIDEO TO SPIN
+    word: "\u770B\u89C6\u9891\u5F97\u5956\u52B1"
+  - key: REWARD
+    word: "\u5956\u52B1"
+  - key: OK
+    word: "\u786E\u5B9A"
+  - key: WATCH VIDEO TO TRY AGAIN
+    word: "\u770B\u89C6\u9891\u518D\u8F6C\u4E00\u6B21"
+  - key: winlose_text_aliright
+    word: "\u8FD8\u597D"
+  - key: winlose_text_okay
+    word: "\u53EF\u4EE5"
+  - key: winlose_text_pass
+    word: "\u901A\u8FC7\u4E86"
+  - key: winlose_text_goodjob
+    word: "\u5F88\u597D"
+  - key: winlose_text_sofar
+    word: "\u633A\u4E0D\u9519"
+  - key: winlose_text_hero
+    word: "\u753B\u5F97\u6F02\u4EAE"
+  - key: winlose_text_notbad
+    word: "\u975E\u5E38\u4E0D\u9519"
+  - key: winlose_text_unstoppable
+    word: "\u5929\u624D\uFF01"
+  - key: winlose_text_wow
+    word: "\u68D2\u6781\u4E86!"
+  - key: chanllenge_title_angry
+    word: "\u5916\u661F\u4EBA{0}"
+  - key: chanllenge_title_basket_1
+    word: "\u7BEE\u7403 1"
+  - key: chanllenge_title_basket_2
+    word: "\u7BEE\u7403 2"
+  - key: chanllenge_title_basket_3
+    word: "\u7BEE\u7403 3"
+  - key: chanllenge_title_basket_4
+    word: "\u7BEE\u7403 4"
+  - key: chanllenge_title_line_1
+    word: "\u753B\u7EBF\u89E6\u78B0 1"
+  - key: chanllenge_title_line_2
+    word: "\u753B\u7EBF\u89E6\u78B0 2"
+  - key: chanllenge_title_line_3
+    word: "\u753B\u7EBF\u89E6\u78B0 3"
+  - key: chanllenge_title_line_4
+    word: "\u753B\u7EBF\u89E6\u78B0 4"
+  - key: chanllenge_title_line_5
+    word: "\u753B\u7EBF\u89E6\u78B0 5"
+  - key: chanllenge_title_line_6
+    word: "\u753B\u7EBF\u89E6\u78B0 6"
+  - key: chanllenge_title_deep
+    word: "\u6DF1\u6E0A {0} "
+  - key: Easy
+    word: "\u7B80\u5355"
+  - key: Normal
+    word: "\u4E2D\u7B49"
+  - key: Hard
+    word: "\u56F0\u96BE"
+  - key: LIKE OUR GAME?
+    word: "\u559C\u6B22\u6211\u4EEC\u7684\u6E38\u620F\uFF1F"
+  - key: Please give us a rate!
+    word: "\u8BF7\u7ED9\u6211\u4EEC\u4E00\u4E2A\u597D\u8BC4!"
+  - key: Thanks for your rate!
+    word: "\u611F\u8C22\u60A8\u7684\u8BC4\u4EF7\uFF01"
+  - key: SUBMIT
+    word: "\u63D0\u4EA4"
+  - key: Continue?
+    word: "\u7EE7\u7EED\uFF1F"
+  - key: Return
+    word: "\u8FD4\u56DE"
+  - key: Back Home
+    word: "\u8FD4\u56DE\u4E3B\u9875"
+  - key: CHALLENGE SUCCESS!
+    word: "\u6311\u6218\u6210\u529F\uFF01"
+  - key: World Rank
+    word: "\u4E16\u754C\u6392\u540D"
+  - key: Check
+    word: "\u68C0\u67E5"
+  - key: VIP
+    word: "\u4F1A\u5458"
+  - key: role_talk_1
+    word: "\u4F60\u60F3\u6253\u8D25\u6211\uFF1F\u8BD5\u8BD5\u770B\u554A\uFF01"
+  - key: role_talk_2
+    word: "\u4F60\u522B\u60F3\u6BCF\u6B21\u90FD\u6253\u4E2D\uFF01"
+  - key: role_talk_3
+    word: "\u6709\u4EBA\u5728\u90A3\u4E48\uFF01"
+  - key: role_talk_4
+    word: "\u611A\u8822\u7684\u5730\u7403\u4EBA"
+  - key: role_talk_5
+    word: "\u770B\u6211\u7684\uFF01"
+  - key: role_talk_6
+    word: "\u4ECE\u6765\u6CA1\u4EBA\u6562\u51FB\u4E2D\u6211"
+  - key: role_talk_7
+    word: "\u6211\u4ECE\u9ED1\u591C\u4E2D\u6765"
+  - key: role_talk_8
+    word: "\u8FD9\u6B21\u4F60\u662F\u65E0\u6CD5\u51FB\u4E2D\u6211\u7684"
+  - key: main_page_video_left
+    word: "\u5269\u4F59\u89C6\u9891\uFF1A"
+  - key: gp_line_1
+    word: "\u753B\u4E00\u6761\u7EBF\u51FB\u4E2D\u4ED6\uFF01"
+  - key: gp_line_2
+    word: "\u4EE4\u4EBA\u7740\u8FF7\u5F97\u6545\u4E8B"
+  - key: gp_line_3
+    word: "\u6467\u6BC1\u5916\u661F\u519B\u56E2"
+  - key: gp_line_4
+    word: "\u81EA\u5B9A\u4E49\u4F60\u7684\u89D2\u8272"
+  - key: gp_line_5
+    word: "\u72EC\u4E00\u65E0\u4E8C\u5F97\u5173\u5361"
+  - key: gp_line_6
+    word: "\u8D85\u8FC7\u4ED6\u4EEC"
+  - key: gp_line_7
+    word: "\u6253\u7834\u7EAA\u5F55"
+  - key: gp_line_8
+    word: "2019\u5168\u65B0\u76AE\u80A4"
+  - key: gp_line_9
+    word: "\u806A\u660E\u4F60\u7684\u5927\u8111"
+  - key: gp_line_10
+    word: "\u66F4\u591A\u5173\u5361\u5373\u5C06\u5230\u6765"
+  - key: gp_line_11
+    word: "\u6311\u6218\u7B2C\u4E00\u4E2A\u901A\u5173"
+  - key: gp_line_12
+    word: "\u4E16\u754C\u7B2C\u4E00\u73A9\u5BB6"
+  - key: '{0} Coins'
+    word: "{0} \u91D1\u5E01"
+  - key: New Record
+    word: "\u65B0\u7EAA\u5F55"
+  - key: Free Spin
+    word: "\u514D\u8D39\u5956\u52B1"
+  - key: Ads Free Continue in Challenge
+    word: "+\u6311\u6218\u6A21\u5F0F\u514D\u8D39\u590D\u6D3B"
+  - key: All Dress Unlocked
+    word: "+\u89E3\u9501\u6240\u6709\u670D\u88C5"
+  - key: DRESS
+    word: "\u670D\u88C5"
+  - key: Dress
+    word: "\u670D\u88C5"
+  - key: ITEM
+    word: "\u9053\u5177"
+  - key: Draw Lines To Touch All the Bubbles
+    word: "\u753B\u4E00\u6761\u7EBF\u89E6\u78B0\u6240\u6709\u5C0F\u7403"
+  - key: Draw Lines To Guide The Ball
+    word: "\u753B\u4E00\u6761\u7EBF\u5F15\u5BFC\u7BEE\u7403"
+  - key: CHALLENGE
+    word: "\u6311\u6218"
+  - key: CONTINUE
+    word: "\u7EE7\u7EED"
+  - key: FAIL
+    word: "\u5931\u8D25"
+  - key: TRY OUR NEW GAME AND GET COINS!
+    word: "\u8BD5\u8BD5\u6211\u4EEC\u5F97\u65B0\u6E38\u620F"
+  - key: RESTART
+    word: "\u91CD\u65B0\u5F00\u59CB"
+  - key: Get VIP to unlock all dress
+    word: "\u6210\u4E3A\u4F1A\u5458\u89E3\u9501\u6240\u6709\u670D\u88C5"
+  - key: Hat
+    word: "\u5E3D\u5B50"
+  - key: PLAY
+    word: "\u5F00\u59CB"
+  - key: Challenge Only
+    word: "\u6311\u6218\u9650\u5B9A"
+  - key: Finish the challenge to collect
+    word: "\u5B8C\u6210\u6311\u6218\u4EE5\u83B7\u5F97"
+  - key: then
+    word: "\u7136\u540E"
+  - key: AD Break
+    word: "\u4F11\u606F\u4E00\u4E0B"
+  - key: CONGRATS
+    word: "\u606D\u559C"
+  - key: You claim {0} coins
+    word: "\u83B7\u5F97\u4E86 {0} \u91D1\u5E01"
+  - key: Next Login Bonus
+    word: "\u4E0B\u4E00\u4E2A\u767B\u9646\u5956\u52B1"
+  - key: Wanna Start A New Level
+    word: "\u5F00\u59CB\u6E38\u620F\uFF1F"
+  - key: START
+    word: "\u5F00\u59CB"
+  - key: LATER
+    word: "\u7A0D\u540E"
+  - key: COLLECTED
+    word: "\u5DF2\u83B7\u5F97"
+  - key: DAY
+    word: "\u5929"
+  - key: DAILY BONUS
+    word: "\u6BCF\u65E5\u5956\u52B1"
+  - key: CHECK IN
+    word: "\u7B7E\u5230"
+  - key: WATCH ADS
+    word: "\u89C6\u9891\u5E7F\u544A"
+  - key: COLLECT THE ITEM
+    word: "\u6536\u96C6\u9053\u5177"
+  - key: You collect a new skin
+    word: "\u4F60\u83B7\u5F97\u4E86\u4E00\u4E2A\u65B0\u7684\u76AE\u80A4"
+  - key: Have a nice day
+    word: "\u7F8E\u597D\u7684\u4E00\u5929\uFF01"
+  - key: You Need
+    word: "\u4F60\u9700\u8981"
+  - key: To Unlock Chapter
+    word: "\u4EE5\u89E3\u9501\u7AE0\u8282"
+  - key: YES, CONTINUE
+    word: "\u662F\uFF0C\u7EE7\u7EED"
+  - key: YES, WATCH AD
+    word: "\u662F\uFF0C\u89C2\u770B\u5E7F\u544A"
+  - key: NO, GIVE UP
+    word: "\u4E0D\uFF0C\u653E\u5F03"
+  - key: Confirm To Skip The Level?
+    word: "\u786E\u5B9A\u8981\u8DF3\u8FC7\u5173\u5361\uFF1F"
+  - key: Skip
+    word: "\u8DF3\u8FC7"
+  - key: Cancel
+    word: "\u53D6\u6D88"
+  - key: All Mini Games Unlocked
+    word: "+\u89E3\u9501\u6240\u6709\u5C0F\u6E38\u620F"
+  - key: ACTION
+    word: "\u52A8\u4F5C"
+  - key: TOY
+    word: "\u73A9\u5177"
+  - key: USE
+    word: "\u4F7F\u7528"
+  - key: Wait a minute to do this again!
+    word: "\u7A0D\u7B49\u7247\u523B"
+  - key: Watch video to finish now
+    word: "\u89C2\u770B\u89C6\u9891\u7ACB\u5373\u7ED3\u675F"
+  - key: Finish Now
+    word: "\u7ACB\u5373\u7ED3\u675F"
+  - key: OFF
+    word: "\u5173"
+  - key: ON
+    word: "\u5F00"
+  - key: You
+    word: "\u4F60"
+  - key: You don't have this skill now
+    word: "\u6CA1\u6709\u8FD9\u4E2A\u6280\u80FD"
+  - key: Can't do this right now, he is sleeping!
+    word: "\u6B63\u5728\u7761\u89C9\uFF01"
+  - key: You Need
+    word: "\u4F60\u9700\u8981"
+  - key: To Unlock This
+    word: "\u4EE5\u89E3\u9501"
+  - key: Restore
+    word: "\u6062\u590D"
+  - key: 3 Days Free Trial
+    word: "3\u5929\u514D\u8D39\u4F7F\u7528"
+  - key: $ 9.99/Week
+    word: "$ 9.99/\u5468"
+  - key: Watch Video To Try One Level.
+    word: "\u770B\u89C6\u9891\u8BD5\u73A9\u4E00\u5173"
+  - key: BECOME {0}TO UNLOCK ALL GAMES
+    word: "\u6210\u4E3A{0}\u4EE5\u89E3\u9501\u6240\u6709\u5173\u5361"
+  - key: tip_1
+    word: "\u73A9\u5C0F\u6E38\u620F\u83B7\u5F97\u91D1\u5E01"
+  - key: tip_2
+    word: "\u52A8\u4F5C\u548C\u73A9\u5177\u5438\u5F15\u7C89\u4E1D"
+  - key: tip_3
+    word: "\u73A9\u5C0F\u6E38\u620F\u83B7\u5F97\u661F\u6570"
+  - key: tip_4
+    word: "\u79BB\u7EBF\u4E5F\u53EF\u4EE5\u83B7\u5F97\u7C89\u4E1D"
+  - key: tip_5
+    word: "\u72B6\u6001\u53D8\u7EA2\uFF0C\u5C06\u65E0\u6CD5\u83B7\u5F97\u7C89\u4E1D"
+  - key: LOADING ...
+    word: "\u8BFB\u53D6\u4E2D..."
+  - key: TERMS OF USE
+    word: "\u4F7F\u7528\u6761\u4F8B"
+  - key: PRIVACY POLICY
+    word: "\u9690\u79C1\u653F\u7B56"
+  - key: RESTORE
+    word: "\u6062\u590D"
+  - key: Fans
+    word: "\u7C89\u4E1D"
+  - key: Stars
+    word: "\u661F\u6570"
+  - key: Becoming VIP
+    word: "\u6210\u4E3A\u4F1A\u5458\u89E3\u9501\u6240\u6709\u670D\u88C5"
+  - key: ACHIEVEMENT
+    word: "\u6210\u5C31"
+  - key: NEW ACHIEVEMENT
+    word: "\u65B0\u6210\u5C31"
+  - key: When you away, you get {0} fans!
+    word: "\u79BB\u5F00\u65F6\u83B7\u5F97\u4E86{0} \u7C89\u4E1D!"
+  - key: pop_up_text_1
+    word: "\u8FD9\u662F\u4F60\u7684\u5916\u661F\u5BA0\u7269\uFF01\u83B7\u5F97\u66F4\u591A\u5F97\u7C89\u4E1D\u5427\uFF01"
+  - key: pop_up_text_2
+    word: "\u73A9\u5C0F\u6E38\u620F\u83B7\u5F97\u91D1\u5E01\u548C\u7C89\u4E1D"
+  - key: You need {0} {1} to unlock it!
+    word: "\u4F60\u9700\u8981{0} {1}\u6765\u89E3\u9501"
+  - key: Not enough coins
+    word: "\u91D1\u5E01\u4E0D\u8DB3"
+  - key: "Daily\_Extra\_Coins\_"
+    word: "+400\u91D1\u5E01\u6BCF\u5929"
+  - key: T A P   T O   S T A R T
+    word: "\u70B9\u51FB\u4EE5\u5F00\u59CB"
+  - key: MAP
+    word: "\u5730\u56FE"
+  - key: CLEAR
+    word: "\u901A\u8FC7\uFF01"
+  - key: TAP TO NEXT LEVEL
+    word: "\u70B9\u51FB\u8FDB\u5165\u4E0B\u4E00\u5173"
+  - key: COMBO
+    word: "\u8FDE\u51FB\uFF01"
+  - key: PASSED
+    word: "\u901A\u8FC7"
+  - key: SCORE
+    word: "\u5206\u6570"
+  - key: Score Booster
+    word: "\u5206\u6570\u52A0\u6210"
+  - key: Points from fruit
+    word: "\u6C34\u679C\u4E2D\u7684\u5206\u6570"
+  - key: Coin Booster
+    word: "\u91D1\u5E01\u52A0\u6210"
+  - key: Coins from chest
+    word: "\u5B9D\u7BB1\u4E2D\u7684\u91D1\u5E01"
+  - key: POWERUPS
+    word: "\u52A0\u5F3A\u9053\u5177"
+  - key: SKINS
+    word: "\u76AE\u80A4\u5546\u5E97"
+  - key: UNLIMITED ENERGY
+    word: "\u65E0\u9650\u4F53\u529B"
+  - key: 3 UNIQUE SKINS
+    word: "3\u4E2A\u72EC\u7279\u76AE\u80A4"
+  - key: REFILL TO 5
+    word: "\u83B7\u5F975\u4E2A"
+  - key: WATCH VIDEO
+    word: "\u770B\u89C6\u9891"
+  - key: REPLAY
+    word: "\u91CD\u73A9\u672C\u5173"
+  - key: Guide1
+    word: "\u6ED1\u52A8\u4E00\u6B21\u8FDB\u884C\u79FB\u52A8"
+  - key: Guide2
+    word: "\u518D\u6B21\u6ED1\u52A8\u8FDB\u884C\u51B2\u523A"
+  - key: D E F E A T
+    word: "\u5931\u8D25"
+  - key: REMOVE ADS
+    word: "\u53BB\u9664\u5E7F\u544A"
+  - key: EXIT
+    word: "\u9000\u51FA"
+  - key: CONFIRM TO EXIT?
+    word: "\u786E\u5B9A\u9000\u51FA\u672C\u5173?"
+  - key: PLAY ON
+    word: "\u7EE7\u7EED"
+  - key: QuizName_Logo
+    word: Logo
+  - key: QuizName_Animal
+    word: Animal
+  - key: QuizName_Movie
+    word: Movie
+  - key: QuizName_Flower
+    word: Flower
+  - key: QuizName_Sport
+    word: Sport
+  - key: QuizName_Landmark
+    word: Landmark
+  - key: QuizName_Soccer
+    word: Soccer
+  - key: QuizName_Exhibit
+    word: Exhibit
+  - key: QuizName_General
+    word: General
+  - key: QuizName_Proverb
+    word: Proverb
+  - key: QuizName_Lyrics
+    word: Lyrics
+  - key: QuizName_Brazil
+    word: Brasil
+  - key: QuizName_India
+    word: "\xCDndia"
+  - key: QuizName_Thailand
+    word: "Tail\xE2ndia"
+  - key: QuizName_Word
+    word: "Tail\xE2ndia"
+  - key: Name_gold
+    word: Coin
+  - key: Name_cash
+    word: Cash
+  - key: Name_item_pass
+    word: Pass Card
+  - key: Name_item_bomb
+    word: Bomb
+  - key: Name_card_1
+    word: Steel Box
+  - key: Name_card_2
+    word: Silver Box
+  - key: Name_card_3
+    word: Ruby Box
+  - key: Name_card_4
+    word: Emerald Box
+  - key: Steel Box
+    word: Steel Box
+  - key: Silver Box
+    word: Silver Box
+  - key: Ruby Box
+    word: Ruby Box
+  - key: Emerald Box
+    word: Emerald Box
+  - key: 'Scractch Chance Left:'
+    word: 'Scractch Chance Left:'
+  - key: Watch a video and Get a Treasure Box
+    word: Watch a video and Get a Treasure Box
+  - key: Get More Boxes
+    word: Get More Boxes
+  - key: Unlock on second day
+    word: Unlock on second day
+  - key: Prize
+    word: Prize
+  - key: BIG SALE
+    word: BIG SALE
+  - key: GET
+    word: GET
+  - key: Tap To Continue
+    word: Tap To Continue
+  - key: TOTAL BONUS
+    word: TOTAL BONUS
+  - key: REWARD
+    word: REWARD
+  - key: RETRY
+    word: RETRY
+  - key: Accuracy
+    word: Accuracy
+  - key: ENERGY
+    word: ENERGY
+  - key: TIME TO NEXT ENERGY
+    word: TIME TO NEXT ENERGY
+  - key: WATCH VIDEO
+    word: WATCH VIDEO
+  - key: 'LEFT:'
+    word: 'LEFT:'
+  - key: Free
+    word: Free
+  - key: FREE
+    word: TEST
+  - key: 1. Play Scratcher and Win Real MONEY!
+    word: TEST
+  - key: "2. CASH OUT ANY TIME\uFF01"
+    word: TEST
+  - key: Scratcher Tip
+    word: TEST
+  - key: 'You have completed an achievement:'
+    word: TEST
+  - key: CLAIM
+    word: TEST
+  - key: 1 Pass quizzes and get chests.
+    word: TEST
+  - key: 2 Win real money!
+    word: TEST
+  - key: 3 Cash out Any Time!
+    word: TEST
+  - key: Level
+    word: TEST
+  - key: Next
+    word: TEST
+  - key: Welcome! Tap here to start.
+    word: TEST
+  - key: Tap here to choose the level you want.
+    word: TEST
+  - key: Speed Stick
+    word: TEST
+  - key: Let's choose the correct answer.
+    word: TEST
+  - key: Well done. You get the reward you deserve.Let's open it.
+    word: TEST
+  - key: Enjoy yourself in our game
+    word: TEST
+  - key: SPIN
+    word: TEST
+  - key: BONUS REWARD
+    word: TEST
+  - key: Unlock on second day
+    word: TEST
+  - key: Unlock on finish a level
+    word: TEST
+  - key: More Treasure Box
+    word: TEST
+  - key: Watch a video and Get a Treasure Box!
+    word: TEST
+  - key: Get More Boxs
+    word: TEST
+  - key: Next
+    word: TEST
+  - key: CHECKIN
+    word: TEST
+  - key: LUCKY CARD
+    word: TEST
+  - key: SCRATCHER
+    word: TEST
+  - key: ACHIEVE
+    word: TEST
+  - key: SETTING
+    word: TEST
+  - key: QUIZ BATTLE
+    word: TEST
+  - key: DISCONNECT
+    word: TEST
+  - key: Please check your connection!
+    word: TEST
+  - key: Your support is precious to us!
+    word: TEST
+  - key: RATE US
+    word: TEST
+  - key: REDEEM
+    word: TEST
+  - key: WINNER
+    word: TEST
+  - key: Lanugage
+    word: TEST
+  - key: Sound
+    word: TEST
+  - key: Time Limited BIG SALE !
+    word: TEST
+  - key: Get 500 coins everyday
+    word: TEST
+  - key: Remove ads
+    word: TEST
+  - key: FREE TRIAL
+    word: TEST
+  - key: 3 Days Free Trial
+    word: TEST
+  - key: then $8.49/mon($99.99/yrl). Cancel Anytime
+    word: TEST
+  - key: ios_year_vip_info
+    word: TEST
+  - key: android_year_info
+    word: TEST
+  - key: Monthly VIP
+    word: TEST
+  - key: Yearly VIP For $49.99/Year
+    word: Yearly VIP For $49.99/Year
+  - key: Monthly VIP For $9.99/Month
+    word: Monthly VIP For $9.99/Month
+  - key: 3-Day free trial. Then $15.99/mon
+    word: TEST
+  - key: 3-Day free trial. Then $9.99/mon
+    word: TEST
+  - key: 3-Day Free Trial
+    word: TEST
+  - key: Animal
+    word: TEST
+  - key: Flower
+    word: TEST
+  - key: General
+    word: TEST
+  - key: Logo
+    word: TEST
+  - key: Movie
+    word: TEST
+  - key: Flag
+    word: TEST
+  - key: Lyrics
+    word: TEST
+  - key: Proverb
+    word: TEST
+  - key: Science
+    word: TEST
+  - key: Sport
+    word: TEST
+  - key: Soccer
+    word: TEST
+  - key: Exhibit
+    word: TEST
+  - key: Music
+    word: TEST
+  - key: Song
+    word: TEST
+  - key: History
+    word: TEST
+  - key: Landmark
+    word: TEST
+  - key: People
+    word: TEST
+  - key: Slove
+    word: TEST
+  - key: Brazil
+    word: Brasil
+  - key: Thailand
+    word: "Tail\xE2ndia"
+  - key: Word
+    word: Word
+  - key: Illusion
+    word: "Ilus\xE3o"
+  - key: WordAnimal
+    word: Animal e Palavra
+  - key: WordFruit
+    word: Fruta e Palavra
+  - key: quizs to unlock
+    word: TEST
+  - key: India
+    word: "\xCDndio"
+  - key: Level
+    word: TEST
+  - key: SURVIVAL
+    word: certo ou errado
+  - key: Survival
+    word: certo ou errado
+  - key: VS BATTLE
+    word: QUIZ Battle
+  - key: Attempt
+    word: TEST
+  - key: Eraser
+    word: TEST
+  - key: Pass
+    word: TEST
+  - key: Remove one incorrect answer!
+    word: TEST
+  - key: Show the correct answer!
+    word: TEST
+  - key: BattleTitle_Logo
+    word: Logo
+  - key: BattleTitle_Flag
+    word: Which contry is it?
+  - key: BattleTitle_Animal
+    word: Animal
+  - key: BattleTitle_Movie
+    word: Movie
+  - key: BattleTitle_Flower
+    word: Flower
+  - key: BattleTitle_Sport
+    word: Sport
+  - key: BattleTitle_Landmark
+    word: Landmark
+  - key: BattleTitle_Soccer
+    word: Soccer
+  - key: BattleTitle_Exhibit
+    word: Exhibit
+  - key: BattleTitle_General
+    word: General
+  - key: BattleTitle_Proverb
+    word: Proverb
+  - key: BattleTitle_Lyrics
+    word: Lyrics
+  - key: BattleTitle_Brazil
+    word: Brasil
+  - key: BattleTitle_Thailand
+    word: "Tail\xE2ndia"
+  - key: BattleTitle_Food
+    word: "Tail\xE2ndia"
+  - key: GetCoinString
+    word: Get {0} Coins For
+  - key: quizAchieve
+    word: Complete {0} {1} quizzes
+  - key: chestAchieve
+    word: Open {0} chests
+  - key: cardAchieve
+    word: Use {0} lucky cards
+  - key: errorAchieve
+    word: Use {0} lives
+  - key: lotteryAchieve
+    word: Turn the wheel {0} times
+  - key: Accuracy
+    word: Accuracy
+  - key: (AD Free is not included in 3 Day Free-Trial)
+    word: "(AD Free n\xE3o est\xE1 inclu\xEDdo em 3 dias de teste gratuito)"
+  - key: quizTask
+    word: "Complete {0} question\xE1rios "
+  - key: chestTask
+    word: "Abra 3 Ba\xFAs"
+  - key: cardTask
+    word: "Raspadinha {0} Cart\xF5es de Sorte "
+  - key: lotteryTask
+    word: 'Girar {0} roda livre '
+  - key: accuracyTask
+    word: "Tornar o n\xEDvel {0} de {1} {2: 0%} correto"
+  - key: Good! You have completed a mission and come to collect your reward.
+    word: "Boa! Voc\xEA completou uma miss\xE3o e veio recolher sua recompensa."
+  - key: Download
+    word: Baixar
+  - key: Question0
+    word: Pergunta {0}
+  - key: people0
+    word: '{0}'
+  - key: HINT
+    word: DICA
+  - key: LEADERBOARD
+    word: ENTRE OS MELHORES
+  - key: FREE TICKET
+    word: "BILHETE GR\xC1TIS"
+  - key: Challenge
+    word: Desafio
+  - key: cost
+    word: custo
+  - key: DAILY GIFT
+    word: "PRESENTE DI\xC1RIO"
+  - key: Hint_Q1
+    word: 'Q1: como jogar?'
+  - key: Hint_Q2
+    word: 'P2: Recompensas de Atividade'
+  - key: Hint_Q3
+    word: "Q3: dura\xE7\xE3o da atividade"
+  - key: Hint_Q4
+    word: "Q4: problemas e solu\xE7\xF5es"
+  - key: Hint_A1
+    word: "R: Quanto menor o tempo para responder \xE0s perguntas, maior ser\xE1 a
+      pontua\xE7\xE3o. Lute contra milh\xF5es de jogadores em todo o mundo e ven\xE7a
+      o campe\xE3o."
+  - key: Hint_A2
+    word: "A: Quanto menor o tempo que responde \xE0 pergunta"
+  - key: Hint_A3
+    word: "R: A distribui\xE7\xE3o de recompensas com base no ranking dos jogadores.
+      Os 1.000 usu\xE1rios receber\xE3o recompensas generosas."
+  - key: Hint_A4
+    word: "R: Ap\xF3s o t\xE9rmino da atividade, o aplicativo pode n\xE3o conseguir
+      receber a recompensa imediatamente, e o jogador pode reiniciar o aplicativo
+      para corrigi-lo."
+  - key: MATCHING
+    word: COINCIDINDO
+  - key: Join VIP play all premium levels
+    word: "Adira ao VIP e jogue todos os n\xEDveis premium"
+  - key: Unlock this level
+    word: "Desbloqueie este n\xEDvel"
+  - key: This is a premium Level!
+    word: "Este \xE9 um n\xEDvel premium!"
+  - key: Bonus
+    word: "B\xF4nus"
+  - key: Entrance fee
+    word: Taxa de entrada

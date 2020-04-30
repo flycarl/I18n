@@ -1,0 +1,1204 @@
+﻿[{
+"key":"languageName",
+"word":"Português"
+},{
+"key":"COIN SHOP",
+"word":"LOJA DE MOEDAS"
+},{
+"key":"DAILY GIFT",
+"word":"PRESENTE DIÁRIO"
+},{
+"key":"VIP SUBSCRIPTION",
+"word":"ASSINATURA VIP"
+},{
+"key":"GET",
+"word":"ADQUIRIR"
+},{
+"key":"COINS",
+"word":"MOEDAS"
+},{
+"key":"WATCH VIDEO FOR",
+"word":"ASSISTA AO VÍDEO POR"
+},{
+"key":"VIP DOUBLE COLLECT",
+"word":"COLETAR O DOBRO COM VIP"
+},{
+"key":"Next Gift",
+"word":"Próximo Presente"
+},{
+"key":"SUPER PACK",
+"word":"SUPER PACOTE"
+},{
+"key":"Non-Rewarded Ads Removed",
+"word":"+Anúncios Sem \n Recompensas Removidos"
+},{
+"key":"Limited Skin",
+"word":"+Skin Limitada"
+},{
+"key":"SUBSCRIPTION",
+"word":"ASSINATURA"
+},{
+"key":"3 Days Free Trail",
+"word":"3 dias de teste gratuito"
+},{
+"key":"First 2 Hints Free Everyday",
+"word":"+Primeiras 2 Dicas \n Grátis Todos os Dias"
+},{
+"key":"Daily Gift Double Collect",
+"word":"+Coletar Presente \n Diário em Dobro"
+},{
+"key":"VIP Only Skins",
+"word":"+Apenas Skins VIP"
+},{
+"key":"WEEKLY",
+"word":"SEMANALMENTE"
+},{
+"key":"SPECIAL",
+"word":"ESPECIAL"
+},{
+"key":"MONTHLY",
+"word":"MENSALMENTE"
+},{
+"key":"Weekly Special",
+"word":"Semanalmente Especial"
+},{
+"key":"Monthly Special",
+"word":"Mensalmente Especial"
+},{
+"key":"Yearly Special",
+"word":"Anualmente Especial"
+},{
+"key":"/ Week",
+"word":"/ Semana"
+},{
+"key":"/ Month",
+"word":"/ Mês"
+},{
+"key":"/ Year",
+"word":"/ Ano"
+},{
+"key":"SKIN SHOP",
+"word":"LOJA DE SKINS"
+},{
+"key":"USING",
+"word":"USANDO"
+},{
+"key":"Subscription Only",
+"word":"Apenas Assinatura"
+},{
+"key":"Super Pack Only",
+"word":"Apenas Super Pacote"
+},{
+"key":"BackGround",
+"word":"Plano de Fundo"
+},{
+"key":"Ball",
+"word":"Bola"
+},{
+"key":"Pen",
+"word":"Caneta"
+},{
+"key":"Ink",
+"word":"Tinta"
+},{
+"key":"USE",
+"word":"USAR"
+},{
+"key":"RESTORE",
+"word":"RESTAURAR"
+},{
+"key":"SHARE",
+"word":"COMPARTILHAR"
+},{
+"key":"guide_text_line",
+"word":"Desenhe uma linha"
+},{
+"key":"guide_text_bridge",
+"word":"Desenhe uma ponte"
+},{
+"key":"guide_text_slope",
+"word":"Desenhe uma rampa"
+},{
+"key":"guide_text_lines",
+"word":"Desenhe duas linhas"
+},{
+"key":"guide_text_block",
+"word":"Desenhe uma linha, \n pare o bloco"
+},{
+"key":"CHAPTER",
+"word":"CAPÍTULO"
+},{
+"key":"LEVEL",
+"word":"NÍVEL"
+},{
+"key":"LAST PLAY",
+"word":"ÚLTIMO JOGO"
+},{
+"key":"NEXT",
+"word":"PRÓXIMO"
+},{
+"key":"Ink Left",
+"word":"Tinta Restante"
+},{
+"key":"Record",
+"word":"Recorde"
+},{
+"key":"LEVEL WIN",
+"word":"NÍVEL VENCIDO"
+},{
+"key":"WATCH VIDEO TO SPIN",
+"word":"ASSISTA AO VIDEO\nPARA RECOMPENSAS"
+},{
+"key":"REWARD",
+"word":"PRÊMIO"
+},{
+"key":"OK",
+"word":"OK"
+},{
+"key":"WATCH VIDEO TO TRY AGAIN",
+"word":"ASSISTA AO VÍDEO \n PARA TENTAR DE NOVO"
+},{
+"key":"winlose_text_aliright",
+"word":"Certo"
+},{
+"key":"winlose_text_okay",
+"word":"Ok"
+},{
+"key":"winlose_text_pass",
+"word":"Passou"
+},{
+"key":"winlose_text_goodjob",
+"word":"Bom trabalho"
+},{
+"key":"winlose_text_sofar",
+"word":"Tudo bem até aqui"
+},{
+"key":"winlose_text_hero",
+"word":"Você é um herói"
+},{
+"key":"winlose_text_notbad",
+"word":"Nada mal, nada mal"
+},{
+"key":"winlose_text_unstoppable",
+"word":"Você é implacável"
+},{
+"key":"winlose_text_wow",
+"word":"UAU"
+},{
+"key":"chanllenge_title_angry",
+"word":"Alien Furioso {0}"
+},{
+"key":"chanllenge_title_basket_1",
+"word":"Basquete 1"
+},{
+"key":"chanllenge_title_basket_2",
+"word":"Basquete 2"
+},{
+"key":"chanllenge_title_basket_3",
+"word":"Basquete 3"
+},{
+"key":"chanllenge_title_basket_4",
+"word":"Basquete 4"
+},{
+"key":"chanllenge_title_line_1",
+"word":"Toque de Linha 1"
+},{
+"key":"chanllenge_title_line_2",
+"word":"Toque de Linha 2"
+},{
+"key":"chanllenge_title_line_3",
+"word":"Toque de Linha 3"
+},{
+"key":"chanllenge_title_line_4",
+"word":"Toque de Linha 4"
+},{
+"key":"chanllenge_title_line_5",
+"word":"Toque de Linha 5"
+},{
+"key":"chanllenge_title_line_6",
+"word":"Toque de Linha 6"
+},{
+"key":"chanllenge_title_deep",
+"word":"Caverna Profunda {0}"
+},{
+"key":"Easy",
+"word":"Fácil"
+},{
+"key":"Normal",
+"word":"Normal"
+},{
+"key":"Hard",
+"word":"Difícil"
+},{
+"key":"LIKE OUR GAME?",
+"word":"CURTIU NOSSO JOGO?"
+},{
+"key":"Please give us a rate!",
+"word":"Por favor, deixe uma avaliação!"
+},{
+"key":"Thanks for your rate!",
+"word":"Obrigado!"
+},{
+"key":"SUBMIT",
+"word":"ENVIAR"
+},{
+"key":"Continue?",
+"word":"Continuar?"
+},{
+"key":"Return",
+"word":"Voltar"
+},{
+"key":"Back Home",
+"word":"Voltar ao Início"
+},{
+"key":"CHALLENGE SUCCESS!",
+"word":"SUCESSO NO DESAFIO!"
+},{
+"key":"World Rank",
+"word":"Ranking Mundial"
+},{
+"key":"Check",
+"word":"Checar"
+},{
+"key":"VIP",
+"word":"VIP"
+},{
+"key":"role_talk_1",
+"word":"Ei, você quer me derrotar? Vai tentando"
+},{
+"key":"role_talk_2",
+"word":"HAHA, não pode me vencer todas as  vezes"
+},{
+"key":"role_talk_3",
+"word":"Tem alguém aí?"
+},{
+"key":"role_talk_4",
+"word":"Que planeta mais ousado!"
+},{
+"key":"role_talk_5",
+"word":"Deixa comigo!"
+},{
+"key":"role_talk_6",
+"word":"Ninguém pode me vencer!"
+},{
+"key":"role_talk_7",
+"word":"Estou nas sombras..."
+},{
+"key":"role_talk_8",
+"word":"Você não vai me vencer dessa vez!"
+},{
+"key":"main_page_video_left",
+"word":"Vídeo Diário Restante:"
+},{
+"key":"gp_line_1",
+"word":"Desenhe Linhas para Acertar!"
+},{
+"key":"gp_line_2",
+"word":"História viciante"
+},{
+"key":"gp_line_3",
+"word":"Destrua o exército alienígena"
+},{
+"key":"gp_line_4",
+"word":"Customize seu personagem"
+},{
+"key":"gp_line_5",
+"word":"Planeje uma solução única"
+},{
+"key":"gp_line_6",
+"word":"Ultrapasse os outros"
+},{
+"key":"gp_line_7",
+"word":"Quebre os recordes"
+},{
+"key":"gp_line_8",
+"word":"Temas Novos 2019"
+},{
+"key":"gp_line_9",
+"word":"Exercite sua mente"
+},{
+"key":"gp_line_10",
+"word":"Centenas de Níveis Novos Chegando"
+},{
+"key":"gp_line_11",
+"word":"Seja o Primeiro a Solucionar"
+},{
+"key":"gp_line_12",
+"word":"1º a Solucionar no Mundo"
+},{
+"key":"{0} Coins",
+"word":"{0} Moedas"
+},{
+"key":"New Record",
+"word":"novo recorde"
+},{
+"key":"Free Spin",
+"word":"Grátis Rodar"
+},{
+"key":"Ads Free Continue in Challenge",
+"word":"+Anúncios Gratuitos Continuam Em Desafio"
+},{
+"key":"All Dress Unlocked",
+"word":"+Tudo vestido destravado"
+},{
+"key":"DRESS",
+"word":"VESTIR"
+},{
+"key":"Dress",
+"word":"Vestir"
+},{
+"key":"ITEM",
+"word":"ITEM"
+},{
+"key":"Draw Lines To Touch All the Bubbles",
+"word":"Desenhar linhas para tocar todas as bolhas"
+},{
+"key":"Draw Lines To Guide The Ball",
+"word":"Desenhar linhas para guiar a bola"
+},{
+"key":"CHALLENGE",
+"word":"Desafio"
+},{
+"key":"CONTINUE",
+"word":"CONTINUAR"
+},{
+"key":"FAIL",
+"word":"FALHOU"
+},{
+"key":"TRY OUR NEW GAME AND GET COINS!",
+"word":"NOVO JOGO!"
+},{
+"key":"RESTART",
+"word":"REINICIAR"
+},{
+"key":"Get VIP to unlock all dress",
+"word":"Obter VIP para desbloquear todo o vestido"
+},{
+"key":"Hat",
+"word":"Chapéu"
+},{
+"key":"PLAY",
+"word":"TOQUE"
+},{
+"key":"Challenge Only",
+"word":"Apenas Desafio"
+},{
+"key":"Finish the challenge to collect",
+"word":"Termine o desafio de recolher"
+},{
+"key":"then",
+"word":"então"
+},{
+"key":"AD Break",
+"word":"dar um tempo"
+},{
+"key":"CONGRATS",
+"word":"PARABÉNS"
+},{
+"key":"You claim {0} coins",
+"word":"Você reivindica {0} moedas"
+},{
+"key":"Next Login Bonus",
+"word":"Próximo login bônus"
+},{
+"key":"Wanna Start A New Level",
+"word":"Quer começar um novo nível"
+},{
+"key":"START",
+"word":"COMEÇAR"
+},{
+"key":"LATER",
+"word":"MAIS TARDE"
+},{
+"key":"COLLECTED",
+"word":"COLETADO"
+},{
+"key":"DAY",
+"word":"DIA"
+},{
+"key":"DAILY BONUS",
+"word":"BÔNUS DIÁRIO"
+},{
+"key":"CHECK IN",
+"word":"CHECK-IN"
+},{
+"key":"WATCH ADS",
+"word":"ASSISTIR ADS"
+},{
+"key":"COLLECT THE ITEM",
+"word":"RECOLHA O ARTIGO"
+},{
+"key":"You collect a new skin",
+"word":"You collect a new skin"
+},{
+"key":"Have a nice day",
+"word":"Tenha um bom dia :)"
+},{
+"key":"You Need",
+"word":"Você precisa"
+},{
+"key":"To Unlock Chapter",
+"word":"Para desbloquear capítulo"
+},{
+"key":"YES, CONTINUE",
+"word":"SIM, CONTINUAR"
+},{
+"key":"YES, WATCH AD",
+"word":"SIM, ASSISTA AD"
+},{
+"key":"NO, GIVE UP",
+"word":"NÃO, desista"
+},{
+"key":"Confirm To Skip The Level?",
+"word":"Confirmar para pular o nível?"
+},{
+"key":"Skip",
+"word":"Pular"
+},{
+"key":"Cancel",
+"word":"Cancelar"
+},{
+"key":"All Mini Games Unlocked",
+"word":"+Todos os Mini Jogos Desbloqueados"
+},{
+"key":"ACTION",
+"word":"AÇAO"
+},{
+"key":"TOY",
+"word":"BRINQUEDO"
+},{
+"key":"USE",
+"word":"USAR"
+},{
+"key":"Wait a minute to do this again!",
+"word":"Espere um minuto para fazer isso de novo!"
+},{
+"key":"Watch video to finish now",
+"word":"Assista ao vídeo para terminar agora"
+},{
+"key":"Finish Now",
+"word":"Termina agora"
+},{
+"key":"OFF",
+"word":"OFF"
+},{
+"key":"ON",
+"word":"ON"
+},{
+"key":"You",
+"word":"You"
+},{
+"key":"You don't have this skill now",
+"word":"Você não tem essa habilidade agora"
+},{
+"key":"Can't do this right now, he is sleeping!",
+"word":"Não posso fazer isso agora, ele está dormindo!"
+},{
+"key":"You Need",
+"word":"Você precisa"
+},{
+"key":"To Unlock This",
+"word":"Para desbloquear este"
+},{
+"key":"Restore",
+"word":"Restaurar"
+},{
+"key":"3 Days Free Trial",
+"word":"3 dias de teste gratuito"
+},{
+"key":"$ 9.99/Week",
+"word":"$ 9.99/ Semana"
+},{
+"key":"Watch Video To Try One Level.",
+"word":"Assista ao vídeo para tentar um nível."
+},{
+"key":"BECOME {0}TO UNLOCK ALL GAMES",
+"word":"TORNE-SE {0} PARA DESBLOQUEAR TODOS OS JOGOS"
+},{
+"key":"tip_1",
+"word":"Moedas? Receba moedas jogando mini-jogos!"
+},{
+"key":"tip_2",
+"word":"Fãs? Receba os fãs por ACTION e TOY!"
+},{
+"key":"tip_3",
+"word":"Estrelas? Receba as estrelas jogando minijogos!"
+},{
+"key":"tip_4",
+"word":"Coloque os fãs offline quando o seu alien estiver na sala de estar!"
+},{
+"key":"tip_5",
+"word":"Cada status vermelho significa que não há FANS ociosos!"
+},{
+"key":"LOADING ...",
+"word":"CARREGANDO ..."
+},{
+"key":"TERMS OF USE",
+"word":"TERMOS DE USO"
+},{
+"key":"PRIVACY POLICY",
+"word":"POLÍTICA DE PRIVACIDADE"
+},{
+"key":"RESTORE",
+"word":"RESTAURAR"
+},{
+"key":"Fans",
+"word":"Fãs"
+},{
+"key":"Stars",
+"word":"Estrelas"
+},{
+"key":"Becoming VIP",
+"word":"Tornando-se VIP"
+},{
+"key":"ACHIEVEMENT",
+"word":"REALIZAÇÃO"
+},{
+"key":"NEW ACHIEVEMENT",
+"word":"NOVA REALIZAÇÃO"
+},{
+"key":"When you away, you get {0} fans!",
+"word":"Quando você sai, você recebe {0} fãs!"
+},{
+"key":"pop_up_text_1",
+"word":"Feliz é o seu animal de estimação alienígena, obter tantos fãs quanto possível, ele quer ser o top star ao vivo na terra!"
+},{
+"key":"pop_up_text_2",
+"word":"Jogue mini-jogos para ganhar moedas e fãs!"
+},{
+"key":"You need {0} {1} to unlock it!",
+"word":"Você precisa de {0} {1} para desbloqueá-lo!"
+},{
+"key":"Not enough coins",
+"word":"Not enough coins"
+},{
+"key":"Daily Extra Coins ",
+"word":"+400 moedas diárias"
+},{
+"key":"T A P   T O   S T A R T",
+"word":"CLIQUE  PARA  COMEÇAR"
+},{
+"key":"MAP",
+"word":"MAPA"
+},{
+"key":"CLEAR",
+"word":"CLARO"
+},{
+"key":"TAP TO NEXT LEVEL",
+"word":"TAP PARA O PRÓXIMO NÍVEL"
+},{
+"key":"COMBO",
+"word":"COMBO"
+},{
+"key":"PASSED",
+"word":"PASSADO"
+},{
+"key":"SCORE",
+"word":"PONTO"
+},{
+"key":"Score Booster",
+"word":"Impulsionador da pontuação"
+},{
+"key":"Points from fruit",
+"word":"Pontos da fruta"
+},{
+"key":"Coin Booster",
+"word":"Impulsionador da moeda"
+},{
+"key":"Coins from chest",
+"word":"Moedas do peito"
+},{
+"key":"POWERUPS",
+"word":"PODERES"
+},{
+"key":"SKINS",
+"word":"Peles"
+},{
+"key":"UNLIMITED ENERGY",
+"word":"ENERGIA ILIMITADA"
+},{
+"key":"3 UNIQUE SKINS",
+"word":"3 PELES ÚNICAS"
+},{
+"key":"REFILL TO 5",
+"word":"REINICIAR A 5"
+},{
+"key":"WATCH VIDEO",
+"word":"ASSISTA VÍDEO"
+},{
+"key":"REPLAY",
+"word":"REPETIR"
+},{
+"key":"Guide1",
+"word":"Deslize para mover ou virar"
+},{
+"key":"Guide2",
+"word":"Deslize novamente para traço"
+},{
+"key":"D E F E A T",
+"word":"D E R R O T A"
+},{
+"key":"REMOVE ADS",
+"word":"REMOVER PROPAGANDAS"
+},{
+"key":"EXIT",
+"word":"SAÍDA"
+},{
+"key":"CONFIRM TO EXIT?",
+"word":"CONFIRMAR PARA SAIR?"
+},{
+"key":"PLAY ON",
+"word":"Continuar?"
+},{
+"key":"QuizName_Logo",
+"word":"Logotipo"
+},{
+"key":"QuizName_Animal",
+"word":"Animal"
+},{
+"key":"QuizName_Movie",
+"word":"Filme"
+},{
+"key":"QuizName_Flower",
+"word":"Flor"
+},{
+"key":"QuizName_Sport",
+"word":"Esporte"
+},{
+"key":"QuizName_Landmark",
+"word":"Ponto de referência"
+},{
+"key":"QuizName_Soccer",
+"word":"Futebol"
+},{
+"key":"QuizName_Exhibit",
+"word":"Exposição"
+},{
+"key":"QuizName_General",
+"word":"Geral"
+},{
+"key":"QuizName_Proverb",
+"word":"Provérbio"
+},{
+"key":"QuizName_Lyrics",
+"word":"Letra da música"
+},{
+"key":"QuizName_Brazil",
+"word":"Brasil"
+},{
+"key":"QuizName_India",
+"word":"Índia"
+},{
+"key":"QuizName_Thailand",
+"word":"Tailândia"
+},{
+"key":"QuizName_Word",
+"word":"Word"
+},{
+"key":"Name_gold",
+"word":"Moeda"
+},{
+"key":"Name_cash",
+"word":"Dinheiro"
+},{
+"key":"Name_item_pass",
+"word":"Cartão de passe"
+},{
+"key":"Name_item_bomb",
+"word":"Bombear"
+},{
+"key":"Name_card_1",
+"word":"Caixa de aço"
+},{
+"key":"Name_card_2",
+"word":"Caixa de prata"
+},{
+"key":"Name_card_3",
+"word":"Ruby Box"
+},{
+"key":"Name_card_4",
+"word":"Caixa Esmeralda"
+},{
+"key":"Steel Box",
+"word":"Caixa de aço"
+},{
+"key":"Silver Box",
+"word":"Caixa de prata"
+},{
+"key":"Ruby Box",
+"word":"Ruby Box"
+},{
+"key":"Emerald Box",
+"word":"Caixa Esmeralda"
+},{
+"key":"Scractch Chance Left:",
+"word":"Chance de Scractch Esquerda:"
+},{
+"key":"Watch a video and Get a Treasure Box",
+"word":"Assista a um vídeo e ganhe uma caixa de tesouro"
+},{
+"key":"Get More Boxes",
+"word":"Obtenha mais caixas"
+},{
+"key":"Unlock on second day",
+"word":"Desbloquear no segundo dia"
+},{
+"key":"Prize",
+"word":"Prêmio"
+},{
+"key":"BIG SALE",
+"word":"GRANDE VENDA"
+},{
+"key":"GET",
+"word":"PEGUE"
+},{
+"key":"Tap To Continue",
+"word":"Clique para continuar"
+},{
+"key":"TOTAL BONUS",
+"word":"BÔNUS TOTAL"
+},{
+"key":"REWARD",
+"word":"RECOMPENSA"
+},{
+"key":"RETRY",
+"word":"REPETIR"
+},{
+"key":"Accuracy",
+"word":"Precisão"
+},{
+"key":"ENERGY",
+"word":"ENERGIA"
+},{
+"key":"TIME TO NEXT ENERGY",
+"word":"TEMPO PARA A PRÓXIMA ENERGIA"
+},{
+"key":"WATCH VIDEO",
+"word":"ASSISTA VÍDEO"
+},{
+"key":"LEFT:",
+"word":"ESQUERDA:"
+},{
+"key":"Free",
+"word":"Livre"
+},{
+"key":"FREE",
+"word":"LIVRE"
+},{
+"key":"1. Play Scratcher and Win Real MONEY!",
+"word":"1. Jogue Scratcher e ganhe dinheiro real!"
+},{
+"key":"2. CASH OUT ANY TIME！",
+"word":"2. DINHEIRO EM QUALQUER MOMENTO！"
+},{
+"key":"Scratcher Tip",
+"word":"Ponta do Coçador"
+},{
+"key":"You have completed an achievement:",
+"word":"Você completou uma conquista:"
+},{
+"key":"CLAIM",
+"word":"AFIRMAÇÃO"
+},{
+"key":"1 Pass quizzes and get chests.",
+"word":"1 Passe em questionários e obtenha baús."
+},{
+"key":"2 Win real money!",
+"word":"2 Ganhe dinheiro real!"
+},{
+"key":"3 Cash out Any Time!",
+"word":"3 sacar a qualquer momento!"
+},{
+"key":"Level",
+"word":"Nível"
+},{
+"key":"Next",
+"word":"Próximo"
+},{
+"key":"Welcome! Tap here to start.",
+"word":"Bem vinda! Toque aqui para começar."
+},{
+"key":"Tap here to choose the level you want.",
+"word":"Toque aqui para escolher o nível desejado."
+},{
+"key":"Speed Stick",
+"word":"Speed ​​Stick"
+},{
+"key":"Let's choose the correct answer.",
+"word":"Vamos escolher a resposta correta."
+},{
+"key":"Well done. You get the reward you deserve.Let's open it.",
+"word":"Bem feito. Você recebe a recompensa que merece. Vamos abri-la."
+},{
+"key":"Enjoy yourself in our game",
+"word":"Divirta-se no nosso jogo"
+},{
+"key":"SPIN",
+"word":"GIRAR"
+},{
+"key":"BONUS REWARD",
+"word":"RECOMPENSA DO BÔNUS"
+},{
+"key":"Unlock on second day",
+"word":"Desbloquear no segundo dia"
+},{
+"key":"Unlock on finish a level",
+"word":"Desbloquear ao terminar um nível"
+},{
+"key":"More Treasure Box",
+"word":"Mais Treasure Box"
+},{
+"key":"Watch a video and Get a Treasure Box!",
+"word":"Assista a um vídeo e compre uma Treasure Box!"
+},{
+"key":"Get More Boxs",
+"word":"Obtenha mais caixas"
+},{
+"key":"Next",
+"word":"Próximo"
+},{
+"key":"CHECKIN",
+"word":"CHECK-IN"
+},{
+"key":"LUCKY CARD",
+"word":"CARTÃO DE SORTE"
+},{
+"key":"SCRATCHER",
+"word":"SCRATCHER"
+},{
+"key":"ACHIEVE",
+"word":"CONSEGUE"
+},{
+"key":"SETTING",
+"word":"CONFIGURAÇÃO"
+},{
+"key":"QUIZ BATTLE",
+"word":"QUAD BATTLE"
+},{
+"key":"DISCONNECT",
+"word":"DESCONECTAR"
+},{
+"key":"Please check your connection!",
+"word":"Por favor, verifique sua conexão!"
+},{
+"key":"Your support is precious to us!",
+"word":"Seu apoio é precioso para nós!"
+},{
+"key":"RATE US",
+"word":"NOS AVALIE"
+},{
+"key":"REDEEM",
+"word":"RESGATAR"
+},{
+"key":"WINNER",
+"word":"VENCEDORA"
+},{
+"key":"Lanugage",
+"word":"Lanugage"
+},{
+"key":"Sound",
+"word":"Som"
+},{
+"key":"Time Limited BIG SALE !",
+"word":"Tempo Limitado GRANDE VENDA!"
+},{
+"key":"Get 500 coins everyday",
+"word":"Receba 500 moedas todos os dias"
+},{
+"key":"Remove ads",
+"word":"Remover propagandas"
+},{
+"key":"FREE TRIAL",
+"word":"TESTE GRÁTIS"
+},{
+"key":"3 Days Free Trial",
+"word":"3 dias de teste gratuito"
+},{
+"key":"then $8.49/mon($99.99/yrl). Cancel Anytime",
+"word":"então $ 69.99 / yrl ($ 5.99 / mês)."
+},{
+"key":"ios_year_vip_info",
+"word":"Avaliação gratuita de 3 dias. então $ 49.99 / year"
+},{
+"key":"android_year_info",
+"word":"então $ 5.99 / mês ($ 5.99 / yrl). "
+},{
+"key":"Monthly VIP",
+"word":"VIP mensal"
+},{
+"key":"Yearly VIP For $49.99/Year",
+"word":"VIP anual por US $ 49,99 / ano"
+},{
+"key":"Monthly VIP For $9.99/Month",
+"word":"VIP mensal por US $ 9.99/ mês"
+},{
+"key":"3-Day free trial. Then $15.99/mon",
+"word":"Avaliação gratuita de 3 dias. Então $ 15,99 / seg"
+},{
+"key":"3-Day free trial. Then $9.99/mon",
+"word":"Avaliação gratuita de 3 dias. Então $ 9,99 / seg"
+},{
+"key":"3-Day Free Trial",
+"word":"Avaliação Gratuita de 3 Dias"
+},{
+"key":"Animal",
+"word":"Planeta Animal"
+},{
+"key":"Flower",
+"word":"Plantas"
+},{
+"key":"General",
+"word":"Conhecimento geral"
+},{
+"key":"Logo",
+"word":"Logotipo"
+},{
+"key":"Movie",
+"word":"Filme"
+},{
+"key":"Flag",
+"word":"Bandeira nacional"
+},{
+"key":"Lyrics",
+"word":"Letra da música"
+},{
+"key":"Proverb",
+"word":"Provérbio"
+},{
+"key":"Science",
+"word":"Ciência"
+},{
+"key":"Sport",
+"word":"Esporte"
+},{
+"key":"Soccer",
+"word":"Futebol"
+},{
+"key":"Exhibit",
+"word":"Museu"
+},{
+"key":"Music",
+"word":"Adivinhe a musica"
+},{
+"key":"Song",
+"word":"Canção"
+},{
+"key":"History",
+"word":"História"
+},{
+"key":"Landmark",
+"word":"Descoberta do mundo"
+},{
+"key":"People",
+"word":"Pessoas"
+},{
+"key":"Slove",
+"word":"Slove"
+},{
+"key":"Brazil",
+"word":"Descoberta do Brasil"
+},{
+"key":"Thailand",
+"word":"Descoberta da Tailândia"
+},{
+"key":"Word",
+"word":"Fotos e palavra"
+},{
+"key":"Illusion",
+"word":"Ilusão"
+},{
+"key":"WordAnimal",
+"word":"Animal e Palavra"
+},{
+"key":"WordFruit",
+"word":"Fruta e Palavra"
+},{
+"key":"quizs to unlock",
+"word":"testes para desbloquear"
+},{
+"key":"India",
+"word":"Descoberta da Índia"
+},{
+"key":"Level",
+"word":"Nível"
+},{
+"key":"SURVIVAL",
+"word":"Certo ou Errado"
+},{
+"key":"Survival",
+"word":"Certo ou Errado"
+},{
+"key":"VS BATTLE",
+"word":"QUIZ Battle"
+},{
+"key":"Attempt",
+"word":"Tentativa"
+},{
+"key":"Eraser",
+"word":"Apagador"
+},{
+"key":"Pass",
+"word":"Passar"
+},{
+"key":"Remove one incorrect answer!",
+"word":"Remova uma resposta incorreta!"
+},{
+"key":"Show the correct answer!",
+"word":"Mostre a resposta correta!"
+},{
+"key":"BattleTitle_Logo",
+"word":"Qual companhia é essa?"
+},{
+"key":"BattleTitle_Flag",
+"word":"Which country is it?"
+},{
+"key":"BattleTitle_Animal",
+"word":"Que animal é esse?"
+},{
+"key":"BattleTitle_Movie",
+"word":"Filme"
+},{
+"key":"BattleTitle_Flower",
+"word":"Qual planta é isso?"
+},{
+"key":"BattleTitle_Sport",
+"word":"Esporte"
+},{
+"key":"BattleTitle_Landmark",
+"word":"Que lugar é"
+},{
+"key":"BattleTitle_Soccer",
+"word":"Futebol"
+},{
+"key":"BattleTitle_Exhibit",
+"word":"O que é a exposição?"
+},{
+"key":"BattleTitle_General",
+"word":"Geral"
+},{
+"key":"BattleTitle_Proverb",
+"word":"Provérbio"
+},{
+"key":"BattleTitle_Lyrics",
+"word":"Letra da música"
+},{
+"key":"BattleTitle_Brazil",
+"word":"Brasil"
+},{
+"key":"BattleTitle_Thailand",
+"word":"Tailândia"
+},{
+"key":"BattleTitle_Food",
+"word":"What food is it?"
+},{
+"key":"GetCoinString",
+"word":"Obter {0} moedas para"
+},{
+"key":"quizAchieve",
+"word":"Completar questionários {0} {1}"
+},{
+"key":"chestAchieve",
+"word":"Abra os baús {0}"
+},{
+"key":"cardAchieve",
+"word":"Use {0} cartões de sorte"
+},{
+"key":"errorAchieve",
+"word":"Use {0} vidas"
+},{
+"key":"lotteryAchieve",
+"word":"Gire a roda {0} vezes"
+},{
+"key":"Accuracy",
+"word":"Precisão"
+},{
+"key":"(AD Free is not included in 3 Day Free-Trial)",
+"word":"(AD Free não está incluído em 3 dias de teste gratuito)"
+},{
+"key":"quizTask",
+"word":"Complete {0} questionários "
+},{
+"key":"chestTask",
+"word":"Abra 3 Baús"
+},{
+"key":"cardTask",
+"word":"Raspadinha {0} Cartões de Sorte "
+},{
+"key":"lotteryTask",
+"word":"Girar {0} roda livre "
+},{
+"key":"accuracyTask",
+"word":"Tornar o nível {0} de {1} {2: 0%} correto"
+},{
+"key":"Good! You have completed a mission and come to collect your reward.",
+"word":"Boa! Você completou uma missão e veio recolher sua recompensa."
+},{
+"key":"Download",
+"word":"Baixar"
+},{
+"key":"Question0",
+"word":"Pergunta {0}"
+},{
+"key":"people0",
+"word":"{0}"
+},{
+"key":"HINT",
+"word":"DICA"
+},{
+"key":"LEADERBOARD",
+"word":"ENTRE OS MELHORES"
+},{
+"key":"FREE TICKET",
+"word":"BILHETE GRÁTIS"
+},{
+"key":"Challenge",
+"word":"Desafio"
+},{
+"key":"cost",
+"word":"custo"
+},{
+"key":"DAILY GIFT",
+"word":"PRESENTE DIÁRIO"
+},{
+"key":"Hint_Q1",
+"word":"Q1: como jogar?"
+},{
+"key":"Hint_Q2",
+"word":"P2: Recompensas de Atividade"
+},{
+"key":"Hint_Q3",
+"word":"Q3: duração da atividade"
+},{
+"key":"Hint_Q4",
+"word":"Q4: problemas e soluções"
+},{
+"key":"Hint_A1",
+"word":"R: Quanto menor o tempo para responder às perguntas, maior será a pontuação. Lute contra milhões de jogadores em todo o mundo e vença o campeão."
+},{
+"key":"Hint_A2",
+"word":"A: Quanto menor o tempo que responde à pergunta"
+},{
+"key":"Hint_A3",
+"word":"R: A distribuição de recompensas com base no ranking dos jogadores. Os 1.000 usuários receberão recompensas generosas."
+},{
+"key":"Hint_A4",
+"word":"R: Após o término da atividade, o aplicativo pode não conseguir receber a recompensa imediatamente, e o jogador pode reiniciar o aplicativo para corrigi-lo."
+},{
+"key":"MATCHING",
+"word":"COINCIDINDO"
+},{
+"key":"Join VIP play all premium levels",
+"word":"Adira ao VIP e jogue todos os níveis premium"
+},{
+"key":"Unlock this level",
+"word":"Desbloqueie este nível"
+},{
+"key":"This is a premium Level!",
+"word":"Este é um nível premium!"
+},{
+"key":"Bonus",
+"word":"Bônus"
+},{
+"key":"Entrance fee",
+"word":"Taxa de entrada"
+}]

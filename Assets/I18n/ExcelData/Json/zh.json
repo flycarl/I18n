@@ -1,0 +1,1204 @@
+﻿[{
+"key":"languageName",
+"word":"中文"
+},{
+"key":"COIN SHOP",
+"word":"金币商店"
+},{
+"key":"DAILY GIFT",
+"word":"每日礼包"
+},{
+"key":"VIP SUBSCRIPTION",
+"word":"会员订阅"
+},{
+"key":"GET",
+"word":"获得"
+},{
+"key":"COINS",
+"word":"金币"
+},{
+"key":"WATCH VIDEO FOR",
+"word":"看视频得"
+},{
+"key":"VIP DOUBLE COLLECT",
+"word":"会员双倍领取"
+},{
+"key":"Next Gift",
+"word":"下个礼物"
+},{
+"key":"SUPER PACK",
+"word":"超级礼包"
+},{
+"key":"Non-Rewarded Ads Removed",
+"word":"+去除广告"
+},{
+"key":"Limited Skin",
+"word":"+限定皮肤"
+},{
+"key":"SUBSCRIPTION",
+"word":"会员"
+},{
+"key":"3 Days Free Trail",
+"word":"3天免费试用"
+},{
+"key":"First 2 Hints Free Everyday",
+"word":"+每天2次免费提示"
+},{
+"key":"Daily Gift Double Collect",
+"word":"+每日礼包双倍领取"
+},{
+"key":"VIP Only Skins",
+"word":"+会员限定皮肤"
+},{
+"key":"WEEKLY",
+"word":"每周"
+},{
+"key":"SPECIAL",
+"word":"特别"
+},{
+"key":"MONTHLY",
+"word":"每月"
+},{
+"key":"Weekly Special",
+"word":"周会员"
+},{
+"key":"Monthly Special",
+"word":"月会员"
+},{
+"key":"Yearly Special",
+"word":"年会员"
+},{
+"key":"/ Week",
+"word":"/周"
+},{
+"key":"/ Month",
+"word":"/月"
+},{
+"key":"/ Year",
+"word":"/年"
+},{
+"key":"SKIN SHOP",
+"word":"皮肤商店"
+},{
+"key":"USING",
+"word":"使用中"
+},{
+"key":"Subscription Only",
+"word":"会员限定"
+},{
+"key":"Super Pack Only",
+"word":"超级礼包限定"
+},{
+"key":"BackGround",
+"word":"北京"
+},{
+"key":"Ball",
+"word":"球"
+},{
+"key":"Pen",
+"word":"笔"
+},{
+"key":"Ink",
+"word":"墨水"
+},{
+"key":"USE",
+"word":"使用"
+},{
+"key":"RESTORE",
+"word":"恢复"
+},{
+"key":"SHARE",
+"word":"分享"
+},{
+"key":"guide_text_line",
+"word":"画一条线"
+},{
+"key":"guide_text_bridge",
+"word":"画一个桥"
+},{
+"key":"guide_text_slope",
+"word":"画一个斜坡"
+},{
+"key":"guide_text_lines",
+"word":"画两条线"
+},{
+"key":"guide_text_block",
+"word":"画一条线挡住方块"
+},{
+"key":"CHAPTER",
+"word":"章节"
+},{
+"key":"LEVEL",
+"word":"关卡"
+},{
+"key":"LAST PLAY",
+"word":"上次玩到"
+},{
+"key":"NEXT",
+"word":"恢复时间:"
+},{
+"key":"Ink Left",
+"word":"剩余墨水"
+},{
+"key":"Record",
+"word":"纪录"
+},{
+"key":"LEVEL WIN",
+"word":"关卡通过"
+},{
+"key":"WATCH VIDEO TO SPIN",
+"word":"看视频得奖励"
+},{
+"key":"REWARD",
+"word":"奖励"
+},{
+"key":"OK",
+"word":"确定"
+},{
+"key":"WATCH VIDEO TO TRY AGAIN",
+"word":"看视频再转一次"
+},{
+"key":"winlose_text_aliright",
+"word":"还好"
+},{
+"key":"winlose_text_okay",
+"word":"可以"
+},{
+"key":"winlose_text_pass",
+"word":"通过了"
+},{
+"key":"winlose_text_goodjob",
+"word":"很好"
+},{
+"key":"winlose_text_sofar",
+"word":"挺不错"
+},{
+"key":"winlose_text_hero",
+"word":"画得漂亮"
+},{
+"key":"winlose_text_notbad",
+"word":"非常不错"
+},{
+"key":"winlose_text_unstoppable",
+"word":"天才！"
+},{
+"key":"winlose_text_wow",
+"word":"棒极了!"
+},{
+"key":"chanllenge_title_angry",
+"word":"外星人{0}"
+},{
+"key":"chanllenge_title_basket_1",
+"word":"篮球 1"
+},{
+"key":"chanllenge_title_basket_2",
+"word":"篮球 2"
+},{
+"key":"chanllenge_title_basket_3",
+"word":"篮球 3"
+},{
+"key":"chanllenge_title_basket_4",
+"word":"篮球 4"
+},{
+"key":"chanllenge_title_line_1",
+"word":"画线触碰 1"
+},{
+"key":"chanllenge_title_line_2",
+"word":"画线触碰 2"
+},{
+"key":"chanllenge_title_line_3",
+"word":"画线触碰 3"
+},{
+"key":"chanllenge_title_line_4",
+"word":"画线触碰 4"
+},{
+"key":"chanllenge_title_line_5",
+"word":"画线触碰 5"
+},{
+"key":"chanllenge_title_line_6",
+"word":"画线触碰 6"
+},{
+"key":"chanllenge_title_deep",
+"word":"深渊 {0} "
+},{
+"key":"Easy",
+"word":"简单"
+},{
+"key":"Normal",
+"word":"中等"
+},{
+"key":"Hard",
+"word":"困难"
+},{
+"key":"LIKE OUR GAME?",
+"word":"喜欢我们的游戏？"
+},{
+"key":"Please give us a rate!",
+"word":"请给我们一个好评!"
+},{
+"key":"Thanks for your rate!",
+"word":"感谢您的评价！"
+},{
+"key":"SUBMIT",
+"word":"提交"
+},{
+"key":"Continue?",
+"word":"继续？"
+},{
+"key":"Return",
+"word":"返回"
+},{
+"key":"Back Home",
+"word":"返回主页"
+},{
+"key":"CHALLENGE SUCCESS!",
+"word":"挑战成功！"
+},{
+"key":"World Rank",
+"word":"世界排名"
+},{
+"key":"Check",
+"word":"检查"
+},{
+"key":"VIP",
+"word":"会员"
+},{
+"key":"role_talk_1",
+"word":"你想打败我？试试看啊！"
+},{
+"key":"role_talk_2",
+"word":"你别想每次都打中！"
+},{
+"key":"role_talk_3",
+"word":"有人在那么！"
+},{
+"key":"role_talk_4",
+"word":"愚蠢的地球人"
+},{
+"key":"role_talk_5",
+"word":"看我的！"
+},{
+"key":"role_talk_6",
+"word":"从来没人敢击中我"
+},{
+"key":"role_talk_7",
+"word":"我从黑夜中来"
+},{
+"key":"role_talk_8",
+"word":"这次你是无法击中我的"
+},{
+"key":"main_page_video_left",
+"word":"剩余视频："
+},{
+"key":"gp_line_1",
+"word":"画一条线击中他！"
+},{
+"key":"gp_line_2",
+"word":"令人着迷得故事"
+},{
+"key":"gp_line_3",
+"word":"摧毁外星军团"
+},{
+"key":"gp_line_4",
+"word":"自定义你的角色"
+},{
+"key":"gp_line_5",
+"word":"独一无二得关卡"
+},{
+"key":"gp_line_6",
+"word":"超过他们"
+},{
+"key":"gp_line_7",
+"word":"打破纪录"
+},{
+"key":"gp_line_8",
+"word":"2019全新皮肤"
+},{
+"key":"gp_line_9",
+"word":"聪明你的大脑"
+},{
+"key":"gp_line_10",
+"word":"更多关卡即将到来"
+},{
+"key":"gp_line_11",
+"word":"挑战第一个通关"
+},{
+"key":"gp_line_12",
+"word":"世界第一玩家"
+},{
+"key":"{0} Coins",
+"word":"{0} 金币"
+},{
+"key":"New Record",
+"word":"新纪录"
+},{
+"key":"Free Spin",
+"word":"免费奖励"
+},{
+"key":"Ads Free Continue in Challenge",
+"word":"+挑战模式免费复活"
+},{
+"key":"All Dress Unlocked",
+"word":"+解锁所有服装"
+},{
+"key":"DRESS",
+"word":"服装"
+},{
+"key":"Dress",
+"word":"服装"
+},{
+"key":"ITEM",
+"word":"道具"
+},{
+"key":"Draw Lines To Touch All the Bubbles",
+"word":"画一条线触碰所有小球"
+},{
+"key":"Draw Lines To Guide The Ball",
+"word":"画一条线引导篮球"
+},{
+"key":"CHALLENGE",
+"word":"挑战"
+},{
+"key":"CONTINUE",
+"word":"继续"
+},{
+"key":"FAIL",
+"word":"失败"
+},{
+"key":"TRY OUR NEW GAME AND GET COINS!",
+"word":"试试我们得新游戏"
+},{
+"key":"RESTART",
+"word":"重新开始"
+},{
+"key":"Get VIP to unlock all dress",
+"word":"成为会员解锁所有服装"
+},{
+"key":"Hat",
+"word":"帽子"
+},{
+"key":"PLAY",
+"word":"开始"
+},{
+"key":"Challenge Only",
+"word":"挑战限定"
+},{
+"key":"Finish the challenge to collect",
+"word":"完成挑战以获得"
+},{
+"key":"then",
+"word":"然后"
+},{
+"key":"AD Break",
+"word":"休息一下"
+},{
+"key":"CONGRATS",
+"word":"恭喜"
+},{
+"key":"You claim {0} coins",
+"word":"获得了 {0} 金币"
+},{
+"key":"Next Login Bonus",
+"word":"下一个登陆奖励"
+},{
+"key":"Wanna Start A New Level",
+"word":"开始游戏？"
+},{
+"key":"START",
+"word":"开始"
+},{
+"key":"LATER",
+"word":"稍后"
+},{
+"key":"COLLECTED",
+"word":"已获得"
+},{
+"key":"DAY",
+"word":"天"
+},{
+"key":"DAILY BONUS",
+"word":"每日奖励"
+},{
+"key":"CHECK IN",
+"word":"签到"
+},{
+"key":"WATCH ADS",
+"word":"视频广告"
+},{
+"key":"COLLECT THE ITEM",
+"word":"收集道具"
+},{
+"key":"You collect a new skin",
+"word":"你获得了一个新的皮肤"
+},{
+"key":"Have a nice day",
+"word":"美好的一天！"
+},{
+"key":"You Need",
+"word":"你需要"
+},{
+"key":"To Unlock Chapter",
+"word":"以解锁章节"
+},{
+"key":"YES, CONTINUE",
+"word":"是，继续"
+},{
+"key":"YES, WATCH AD",
+"word":"是，观看广告"
+},{
+"key":"NO, GIVE UP",
+"word":"不，放弃"
+},{
+"key":"Confirm To Skip The Level?",
+"word":"确定要跳过关卡？"
+},{
+"key":"Skip",
+"word":"跳过"
+},{
+"key":"Cancel",
+"word":"取消"
+},{
+"key":"All Mini Games Unlocked",
+"word":"+解锁所有小游戏"
+},{
+"key":"ACTION",
+"word":"动作"
+},{
+"key":"TOY",
+"word":"玩具"
+},{
+"key":"USE",
+"word":"使用"
+},{
+"key":"Wait a minute to do this again!",
+"word":"稍等片刻"
+},{
+"key":"Watch video to finish now",
+"word":"观看视频立即结束"
+},{
+"key":"Finish Now",
+"word":"立即结束"
+},{
+"key":"OFF",
+"word":"关"
+},{
+"key":"ON",
+"word":"开"
+},{
+"key":"You",
+"word":"你"
+},{
+"key":"You don't have this skill now",
+"word":"没有这个技能"
+},{
+"key":"Can't do this right now, he is sleeping!",
+"word":"正在睡觉！"
+},{
+"key":"You Need",
+"word":"你需要"
+},{
+"key":"To Unlock This",
+"word":"以解锁"
+},{
+"key":"Restore",
+"word":"恢复"
+},{
+"key":"3 Days Free Trial",
+"word":"3天免费使用"
+},{
+"key":"$ 9.99/Week",
+"word":"$ 9.99/周"
+},{
+"key":"Watch Video To Try One Level.",
+"word":"看视频试玩一关"
+},{
+"key":"BECOME {0}TO UNLOCK ALL GAMES",
+"word":"成为{0}以解锁所有关卡"
+},{
+"key":"tip_1",
+"word":"玩小游戏获得金币"
+},{
+"key":"tip_2",
+"word":"动作和玩具吸引粉丝"
+},{
+"key":"tip_3",
+"word":"玩小游戏获得星数"
+},{
+"key":"tip_4",
+"word":"离线也可以获得粉丝"
+},{
+"key":"tip_5",
+"word":"状态变红，将无法获得粉丝"
+},{
+"key":"LOADING ...",
+"word":"读取中..."
+},{
+"key":"TERMS OF USE",
+"word":"使用条例"
+},{
+"key":"PRIVACY POLICY",
+"word":"隐私政策"
+},{
+"key":"RESTORE",
+"word":"恢复"
+},{
+"key":"Fans",
+"word":"粉丝"
+},{
+"key":"Stars",
+"word":"星数"
+},{
+"key":"Becoming VIP",
+"word":"成为会员解锁所有服装"
+},{
+"key":"ACHIEVEMENT",
+"word":"成就"
+},{
+"key":"NEW ACHIEVEMENT",
+"word":"新成就"
+},{
+"key":"When you away, you get {0} fans!",
+"word":"离开时获得了{0} 粉丝!"
+},{
+"key":"pop_up_text_1",
+"word":"这是你的外星宠物！获得更多得粉丝吧！"
+},{
+"key":"pop_up_text_2",
+"word":"玩小游戏获得金币和粉丝"
+},{
+"key":"You need {0} {1} to unlock it!",
+"word":"你需要{0} {1}来解锁"
+},{
+"key":"Not enough coins",
+"word":"金币不足"
+},{
+"key":"Daily Extra Coins ",
+"word":"+400金币每天"
+},{
+"key":"T A P   T O   S T A R T",
+"word":"点击以开始"
+},{
+"key":"MAP",
+"word":"地图"
+},{
+"key":"CLEAR",
+"word":"通过！"
+},{
+"key":"TAP TO NEXT LEVEL",
+"word":"点击进入下一关"
+},{
+"key":"COMBO",
+"word":"连击！"
+},{
+"key":"PASSED",
+"word":"通过"
+},{
+"key":"SCORE",
+"word":"分数"
+},{
+"key":"Score Booster",
+"word":"分数加成"
+},{
+"key":"Points from fruit",
+"word":"水果中的分数"
+},{
+"key":"Coin Booster",
+"word":"金币加成"
+},{
+"key":"Coins from chest",
+"word":"宝箱中的金币"
+},{
+"key":"POWERUPS",
+"word":"加强道具"
+},{
+"key":"SKINS",
+"word":"皮肤商店"
+},{
+"key":"UNLIMITED ENERGY",
+"word":"无限体力"
+},{
+"key":"3 UNIQUE SKINS",
+"word":"3个独特皮肤"
+},{
+"key":"REFILL TO 5",
+"word":"获得5个"
+},{
+"key":"WATCH VIDEO",
+"word":"看视频"
+},{
+"key":"REPLAY",
+"word":"重玩本关"
+},{
+"key":"Guide1",
+"word":"滑动一次进行移动"
+},{
+"key":"Guide2",
+"word":"再次滑动进行冲刺"
+},{
+"key":"D E F E A T",
+"word":"失败"
+},{
+"key":"REMOVE ADS",
+"word":"去除广告"
+},{
+"key":"EXIT",
+"word":"退出"
+},{
+"key":"CONFIRM TO EXIT?",
+"word":"确定退出本关?"
+},{
+"key":"PLAY ON",
+"word":"继续"
+},{
+"key":"QuizName_Logo",
+"word":"Logo"
+},{
+"key":"QuizName_Animal",
+"word":"Animal"
+},{
+"key":"QuizName_Movie",
+"word":"Movie"
+},{
+"key":"QuizName_Flower",
+"word":"Flower"
+},{
+"key":"QuizName_Sport",
+"word":"Sport"
+},{
+"key":"QuizName_Landmark",
+"word":"Landmark"
+},{
+"key":"QuizName_Soccer",
+"word":"Soccer"
+},{
+"key":"QuizName_Exhibit",
+"word":"Exhibit"
+},{
+"key":"QuizName_General",
+"word":"General"
+},{
+"key":"QuizName_Proverb",
+"word":"Proverb"
+},{
+"key":"QuizName_Lyrics",
+"word":"Lyrics"
+},{
+"key":"QuizName_Brazil",
+"word":"Brasil"
+},{
+"key":"QuizName_India",
+"word":"Índia"
+},{
+"key":"QuizName_Thailand",
+"word":"Tailândia"
+},{
+"key":"QuizName_Word",
+"word":"Tailândia"
+},{
+"key":"Name_gold",
+"word":"Coin"
+},{
+"key":"Name_cash",
+"word":"Cash"
+},{
+"key":"Name_item_pass",
+"word":"Pass Card"
+},{
+"key":"Name_item_bomb",
+"word":"Bomb"
+},{
+"key":"Name_card_1",
+"word":"Steel Box"
+},{
+"key":"Name_card_2",
+"word":"Silver Box"
+},{
+"key":"Name_card_3",
+"word":"Ruby Box"
+},{
+"key":"Name_card_4",
+"word":"Emerald Box"
+},{
+"key":"Steel Box",
+"word":"Steel Box"
+},{
+"key":"Silver Box",
+"word":"Silver Box"
+},{
+"key":"Ruby Box",
+"word":"Ruby Box"
+},{
+"key":"Emerald Box",
+"word":"Emerald Box"
+},{
+"key":"Scractch Chance Left:",
+"word":"Scractch Chance Left:"
+},{
+"key":"Watch a video and Get a Treasure Box",
+"word":"Watch a video and Get a Treasure Box"
+},{
+"key":"Get More Boxes",
+"word":"Get More Boxes"
+},{
+"key":"Unlock on second day",
+"word":"Unlock on second day"
+},{
+"key":"Prize",
+"word":"Prize"
+},{
+"key":"BIG SALE",
+"word":"BIG SALE"
+},{
+"key":"GET",
+"word":"GET"
+},{
+"key":"Tap To Continue",
+"word":"Tap To Continue"
+},{
+"key":"TOTAL BONUS",
+"word":"TOTAL BONUS"
+},{
+"key":"REWARD",
+"word":"REWARD"
+},{
+"key":"RETRY",
+"word":"RETRY"
+},{
+"key":"Accuracy",
+"word":"Accuracy"
+},{
+"key":"ENERGY",
+"word":"ENERGY"
+},{
+"key":"TIME TO NEXT ENERGY",
+"word":"TIME TO NEXT ENERGY"
+},{
+"key":"WATCH VIDEO",
+"word":"WATCH VIDEO"
+},{
+"key":"LEFT:",
+"word":"LEFT:"
+},{
+"key":"Free",
+"word":"Free"
+},{
+"key":"FREE",
+"word":"TEST"
+},{
+"key":"1. Play Scratcher and Win Real MONEY!",
+"word":"TEST"
+},{
+"key":"2. CASH OUT ANY TIME！",
+"word":"TEST"
+},{
+"key":"Scratcher Tip",
+"word":"TEST"
+},{
+"key":"You have completed an achievement:",
+"word":"TEST"
+},{
+"key":"CLAIM",
+"word":"TEST"
+},{
+"key":"1 Pass quizzes and get chests.",
+"word":"TEST"
+},{
+"key":"2 Win real money!",
+"word":"TEST"
+},{
+"key":"3 Cash out Any Time!",
+"word":"TEST"
+},{
+"key":"Level",
+"word":"TEST"
+},{
+"key":"Next",
+"word":"TEST"
+},{
+"key":"Welcome! Tap here to start.",
+"word":"TEST"
+},{
+"key":"Tap here to choose the level you want.",
+"word":"TEST"
+},{
+"key":"Speed Stick",
+"word":"TEST"
+},{
+"key":"Let's choose the correct answer.",
+"word":"TEST"
+},{
+"key":"Well done. You get the reward you deserve.Let's open it.",
+"word":"TEST"
+},{
+"key":"Enjoy yourself in our game",
+"word":"TEST"
+},{
+"key":"SPIN",
+"word":"TEST"
+},{
+"key":"BONUS REWARD",
+"word":"TEST"
+},{
+"key":"Unlock on second day",
+"word":"TEST"
+},{
+"key":"Unlock on finish a level",
+"word":"TEST"
+},{
+"key":"More Treasure Box",
+"word":"TEST"
+},{
+"key":"Watch a video and Get a Treasure Box!",
+"word":"TEST"
+},{
+"key":"Get More Boxs",
+"word":"TEST"
+},{
+"key":"Next",
+"word":"TEST"
+},{
+"key":"CHECKIN",
+"word":"TEST"
+},{
+"key":"LUCKY CARD",
+"word":"TEST"
+},{
+"key":"SCRATCHER",
+"word":"TEST"
+},{
+"key":"ACHIEVE",
+"word":"TEST"
+},{
+"key":"SETTING",
+"word":"TEST"
+},{
+"key":"QUIZ BATTLE",
+"word":"TEST"
+},{
+"key":"DISCONNECT",
+"word":"TEST"
+},{
+"key":"Please check your connection!",
+"word":"TEST"
+},{
+"key":"Your support is precious to us!",
+"word":"TEST"
+},{
+"key":"RATE US",
+"word":"TEST"
+},{
+"key":"REDEEM",
+"word":"TEST"
+},{
+"key":"WINNER",
+"word":"TEST"
+},{
+"key":"Lanugage",
+"word":"TEST"
+},{
+"key":"Sound",
+"word":"TEST"
+},{
+"key":"Time Limited BIG SALE !",
+"word":"TEST"
+},{
+"key":"Get 500 coins everyday",
+"word":"TEST"
+},{
+"key":"Remove ads",
+"word":"TEST"
+},{
+"key":"FREE TRIAL",
+"word":"TEST"
+},{
+"key":"3 Days Free Trial",
+"word":"TEST"
+},{
+"key":"then $8.49/mon($99.99/yrl). Cancel Anytime",
+"word":"TEST"
+},{
+"key":"ios_year_vip_info",
+"word":"TEST"
+},{
+"key":"android_year_info",
+"word":"TEST"
+},{
+"key":"Monthly VIP",
+"word":"TEST"
+},{
+"key":"Yearly VIP For $49.99/Year",
+"word":"Yearly VIP For $49.99/Year"
+},{
+"key":"Monthly VIP For $9.99/Month",
+"word":"Monthly VIP For $9.99/Month"
+},{
+"key":"3-Day free trial. Then $15.99/mon",
+"word":"TEST"
+},{
+"key":"3-Day free trial. Then $9.99/mon",
+"word":"TEST"
+},{
+"key":"3-Day Free Trial",
+"word":"TEST"
+},{
+"key":"Animal",
+"word":"TEST"
+},{
+"key":"Flower",
+"word":"TEST"
+},{
+"key":"General",
+"word":"TEST"
+},{
+"key":"Logo",
+"word":"TEST"
+},{
+"key":"Movie",
+"word":"TEST"
+},{
+"key":"Flag",
+"word":"TEST"
+},{
+"key":"Lyrics",
+"word":"TEST"
+},{
+"key":"Proverb",
+"word":"TEST"
+},{
+"key":"Science",
+"word":"TEST"
+},{
+"key":"Sport",
+"word":"TEST"
+},{
+"key":"Soccer",
+"word":"TEST"
+},{
+"key":"Exhibit",
+"word":"TEST"
+},{
+"key":"Music",
+"word":"TEST"
+},{
+"key":"Song",
+"word":"TEST"
+},{
+"key":"History",
+"word":"TEST"
+},{
+"key":"Landmark",
+"word":"TEST"
+},{
+"key":"People",
+"word":"TEST"
+},{
+"key":"Slove",
+"word":"TEST"
+},{
+"key":"Brazil",
+"word":"Brasil"
+},{
+"key":"Thailand",
+"word":"Tailândia"
+},{
+"key":"Word",
+"word":"Word"
+},{
+"key":"Illusion",
+"word":"Ilusão"
+},{
+"key":"WordAnimal",
+"word":"Animal e Palavra"
+},{
+"key":"WordFruit",
+"word":"Fruta e Palavra"
+},{
+"key":"quizs to unlock",
+"word":"TEST"
+},{
+"key":"India",
+"word":"Índio"
+},{
+"key":"Level",
+"word":"TEST"
+},{
+"key":"SURVIVAL",
+"word":"certo ou errado"
+},{
+"key":"Survival",
+"word":"certo ou errado"
+},{
+"key":"VS BATTLE",
+"word":"QUIZ Battle"
+},{
+"key":"Attempt",
+"word":"TEST"
+},{
+"key":"Eraser",
+"word":"TEST"
+},{
+"key":"Pass",
+"word":"TEST"
+},{
+"key":"Remove one incorrect answer!",
+"word":"TEST"
+},{
+"key":"Show the correct answer!",
+"word":"TEST"
+},{
+"key":"BattleTitle_Logo",
+"word":"Logo"
+},{
+"key":"BattleTitle_Flag",
+"word":"Which contry is it?"
+},{
+"key":"BattleTitle_Animal",
+"word":"Animal"
+},{
+"key":"BattleTitle_Movie",
+"word":"Movie"
+},{
+"key":"BattleTitle_Flower",
+"word":"Flower"
+},{
+"key":"BattleTitle_Sport",
+"word":"Sport"
+},{
+"key":"BattleTitle_Landmark",
+"word":"Landmark"
+},{
+"key":"BattleTitle_Soccer",
+"word":"Soccer"
+},{
+"key":"BattleTitle_Exhibit",
+"word":"Exhibit"
+},{
+"key":"BattleTitle_General",
+"word":"General"
+},{
+"key":"BattleTitle_Proverb",
+"word":"Proverb"
+},{
+"key":"BattleTitle_Lyrics",
+"word":"Lyrics"
+},{
+"key":"BattleTitle_Brazil",
+"word":"Brasil"
+},{
+"key":"BattleTitle_Thailand",
+"word":"Tailândia"
+},{
+"key":"BattleTitle_Food",
+"word":"Tailândia"
+},{
+"key":"GetCoinString",
+"word":"Get {0} Coins For"
+},{
+"key":"quizAchieve",
+"word":"Complete {0} {1} quizzes"
+},{
+"key":"chestAchieve",
+"word":"Open {0} chests"
+},{
+"key":"cardAchieve",
+"word":"Use {0} lucky cards"
+},{
+"key":"errorAchieve",
+"word":"Use {0} lives"
+},{
+"key":"lotteryAchieve",
+"word":"Turn the wheel {0} times"
+},{
+"key":"Accuracy",
+"word":"Accuracy"
+},{
+"key":"(AD Free is not included in 3 Day Free-Trial)",
+"word":"(AD Free não está incluído em 3 dias de teste gratuito)"
+},{
+"key":"quizTask",
+"word":"Complete {0} questionários "
+},{
+"key":"chestTask",
+"word":"Abra 3 Baús"
+},{
+"key":"cardTask",
+"word":"Raspadinha {0} Cartões de Sorte "
+},{
+"key":"lotteryTask",
+"word":"Girar {0} roda livre "
+},{
+"key":"accuracyTask",
+"word":"Tornar o nível {0} de {1} {2: 0%} correto"
+},{
+"key":"Good! You have completed a mission and come to collect your reward.",
+"word":"Boa! Você completou uma missão e veio recolher sua recompensa."
+},{
+"key":"Download",
+"word":"Baixar"
+},{
+"key":"Question0",
+"word":"Pergunta {0}"
+},{
+"key":"people0",
+"word":"{0}"
+},{
+"key":"HINT",
+"word":"DICA"
+},{
+"key":"LEADERBOARD",
+"word":"ENTRE OS MELHORES"
+},{
+"key":"FREE TICKET",
+"word":"BILHETE GRÁTIS"
+},{
+"key":"Challenge",
+"word":"Desafio"
+},{
+"key":"cost",
+"word":"custo"
+},{
+"key":"DAILY GIFT",
+"word":"PRESENTE DIÁRIO"
+},{
+"key":"Hint_Q1",
+"word":"Q1: como jogar?"
+},{
+"key":"Hint_Q2",
+"word":"P2: Recompensas de Atividade"
+},{
+"key":"Hint_Q3",
+"word":"Q3: duração da atividade"
+},{
+"key":"Hint_Q4",
+"word":"Q4: problemas e soluções"
+},{
+"key":"Hint_A1",
+"word":"R: Quanto menor o tempo para responder às perguntas, maior será a pontuação. Lute contra milhões de jogadores em todo o mundo e vença o campeão."
+},{
+"key":"Hint_A2",
+"word":"A: Quanto menor o tempo que responde à pergunta"
+},{
+"key":"Hint_A3",
+"word":"R: A distribuição de recompensas com base no ranking dos jogadores. Os 1.000 usuários receberão recompensas generosas."
+},{
+"key":"Hint_A4",
+"word":"R: Após o término da atividade, o aplicativo pode não conseguir receber a recompensa imediatamente, e o jogador pode reiniciar o aplicativo para corrigi-lo."
+},{
+"key":"MATCHING",
+"word":"COINCIDINDO"
+},{
+"key":"Join VIP play all premium levels",
+"word":"Adira ao VIP e jogue todos os níveis premium"
+},{
+"key":"Unlock this level",
+"word":"Desbloqueie este nível"
+},{
+"key":"This is a premium Level!",
+"word":"Este é um nível premium!"
+},{
+"key":"Bonus",
+"word":"Bônus"
+},{
+"key":"Entrance fee",
+"word":"Taxa de entrada"
+}]

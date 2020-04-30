@@ -1,0 +1,826 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 543ae21d8397d4564a7e221759be361e, type: 3}
+  m_Name: es
+  m_EditorClassIdentifier: 
+  words:
+  - key: languageName
+    word: Spanish
+  - key: COIN SHOP
+    word: TIENDA DE MONEDAS
+  - key: DAILY GIFT
+    word: REGALO DIARIO
+  - key: VIP SUBSCRIPTION
+    word: "SUSCRIPCI\xD3N VIP"
+  - key: GET
+    word: OBTENER
+  - key: COINS
+    word: MONEDAS
+  - key: WATCH VIDEO FOR
+    word: "VER V\xCDDEO POR"
+  - key: VIP DOUBLE COLLECT
+    word: DOBLE COLECTA VIP
+  - key: Next Gift
+    word: Siguiente Regalo
+  - key: SUPER PACK
+    word: SUPER PAQUETE
+  - key: Non-Rewarded Ads Removed
+    word: "Anuncios Sin \n Recompensa Eliminados"
+  - key: Limited Skin
+    word: Fondo Limitado
+  - key: SUBSCRIPTION
+    word: "SUSCRIPCI\xD3N"
+  - key: 3 Days Free Trail
+    word: "3 d\xEDas de prueba gratis"
+  - key: First 2 Hints Free Everyday
+    word: "+Primeras 2 Pistas \n Gratis Todos Los D\xEDas"
+  - key: Daily Gift Double Collect
+    word: "+Colecta Doble de \n Regalo Diario"
+  - key: VIP Only Skins
+    word: "+\xDAnicos Fondos VIP"
+  - key: WEEKLY
+    word: SEMANAL
+  - key: SPECIAL
+    word: ESPECIAL
+  - key: MONTHLY
+    word: MENSUAL
+  - key: Weekly Special
+    word: Semanal Especial
+  - key: Monthly Special
+    word: Mensual Especial
+  - key: Yearly Special
+    word: Anual Especial
+  - key: / Week
+    word: / Semana
+  - key: / Month
+    word: /Mes
+  - key: / Year
+    word: "/ A\xF1o"
+  - key: SKIN SHOP
+    word: TIENDA DE FONDOS
+  - key: USING
+    word: EN USO
+  - key: Subscription Only
+    word: "S\xF3lo Suscripci\xF3n"
+  - key: Super Pack Only
+    word: "S\xF3lo Super Paquete"
+  - key: BackGround
+    word: Antecedentes
+  - key: Ball
+    word: Bola
+  - key: Pen
+    word: "Bol\xEDgrafo"
+  - key: Ink
+    word: Tinta
+  - key: USE
+    word: USAR
+  - key: RESTORE
+    word: RESTABLECER
+  - key: SHARE
+    word: COMPARTIR
+  - key: guide_text_line
+    word: "Dibujar una l\xEDnea"
+  - key: guide_text_bridge
+    word: Dibujar un puente
+  - key: guide_text_slope
+    word: Dibujar una pendiente
+  - key: guide_text_lines
+    word: "Dibujar dos l\xEDneas"
+  - key: guide_text_block
+    word: "Dibujar una l\xEDnea, \n detener el bloque"
+  - key: CHAPTER
+    word: "CAP\xCDTULO"
+  - key: LEVEL
+    word: NIVEL
+  - key: LAST PLAY
+    word: "\xDALTIMA REPRODUCCI\xD3N"
+  - key: NEXT
+    word: SIGUIENTE
+  - key: Ink Left
+    word: Tinta Restante
+  - key: Record
+    word: Registro
+  - key: LEVEL WIN
+    word: VICTORIAS DEL NIVEL
+  - key: WATCH VIDEO TO SPIN
+    word: 'VER VIDEO
+
+      PARA LAS RECOMPENSAS'
+  - key: REWARD
+    word: RECOMPENSA
+  - key: OK
+    word: ACEPTAR
+  - key: WATCH VIDEO TO TRY AGAIN
+    word: "VER VIDEO PARA \n INTENTAR DE NUEVO"
+  - key: winlose_text_aliright
+    word: Todo bien.
+  - key: winlose_text_okay
+    word: De acuerdo
+  - key: winlose_text_pass
+    word: Eso es pasar
+  - key: winlose_text_goodjob
+    word: Buen trabajo
+  - key: winlose_text_sofar
+    word: Por ahora todo bien
+  - key: winlose_text_hero
+    word: "Eres un h\xE9roe"
+  - key: winlose_text_notbad
+    word: "No est\xE1 mal, no est\xE1 mal"
+  - key: winlose_text_unstoppable
+    word: Eres imparable
+  - key: winlose_text_wow
+    word: "\xA1GUAU!"
+  - key: chanllenge_title_angry
+    word: "Desaf\xEDo de Angry Alien {0}"
+  - key: chanllenge_title_basket_1
+    word: "Desaf\xEDo de baloncesto 1"
+  - key: chanllenge_title_basket_2
+    word: "Desaf\xEDo de baloncesto 2"
+  - key: chanllenge_title_basket_3
+    word: "Desaf\xEDo de baloncesto 3"
+  - key: chanllenge_title_basket_4
+    word: "Desaf\xEDo de baloncesto 4"
+  - key: chanllenge_title_line_1
+    word: "Desaf\xEDo de toque de l\xEDnea 1"
+  - key: chanllenge_title_line_2
+    word: "Desaf\xEDo de toque de l\xEDnea 2"
+  - key: chanllenge_title_line_3
+    word: "Desaf\xEDo de toque de l\xEDnea 3"
+  - key: chanllenge_title_line_4
+    word: "Desaf\xEDo de toque de l\xEDnea 4"
+  - key: chanllenge_title_line_5
+    word: "Desaf\xEDo de toque de l\xEDnea 5"
+  - key: chanllenge_title_line_6
+    word: "Desaf\xEDo de toque de l\xEDnea 6"
+  - key: chanllenge_title_deep
+    word: "Desaf\xEDo de cueva profunda {0} "
+  - key: Easy
+    word: "F\xE1cil"
+  - key: Normal
+    word: Normal
+  - key: Hard
+    word: "Dif\xEDcil"
+  - key: LIKE OUR GAME?
+    word: "\xBFTE GUSTA NUESTRO JUEGO?"
+  - key: Please give us a rate!
+    word: "\xA1Por favor calif\xEDcanos!"
+  - key: Thanks for your rate!
+    word: "\xA1Gracias por tu calificaci\xF3n!"
+  - key: SUBMIT
+    word: ENVIAR
+  - key: Continue?
+    word: "\xBFContinuar?"
+  - key: Return
+    word: Volver
+  - key: Back Home
+    word: Volver al Inicio
+  - key: CHALLENGE SUCCESS!
+    word: "\xA1DESAF\xCDO EXITOSO!"
+  - key: World Rank
+    word: Ranking mundial
+  - key: Check
+    word: Verificar
+  - key: VIP
+    word: VIP
+  - key: role_talk_1
+    word: "Oye, \xBFquieres vencerme? Pru\xE9balo~"
+  - key: role_talk_2
+    word: "Jaja,\xA1No puedes vencerme siempre!"
+  - key: role_talk_3
+    word: "\xBFHay alguien ah\xED?"
+  - key: role_talk_4
+    word: "\xA1C\xF3mo se atreve este planeta!"
+  - key: role_talk_5
+    word: "\xA1No puedo manejar esto!"
+  - key: role_talk_6
+    word: "\xA1Nadie me puede vencer!"
+  - key: role_talk_7
+    word: Estoy en la sombra...
+  - key: role_talk_8
+    word: "\xA1No puedes vencerme esta vez!"
+  - key: main_page_video_left
+    word: 'Video Diario Restante: '
+  - key: gp_line_1
+    word: "\xA1Dibuja l\xEDneas para vencerlo!"
+  - key: gp_line_2
+    word: "Almac\xE9n adictivo"
+  - key: gp_line_3
+    word: "Destruir el ejercito alien\xEDgena"
+  - key: gp_line_4
+    word: Personaliza tu personaje
+  - key: gp_line_5
+    word: "Dise\xF1a tu soluci\xF3n exclusiva"
+  - key: gp_line_6
+    word: "S\xE9 m\xE1s listo que los dem\xE1s"
+  - key: gp_line_7
+    word: "Rompe el r\xE9cord"
+  - key: gp_line_8
+    word: Todos Los Temas Nuevos 2019
+  - key: gp_line_9
+    word: Agudiza tu ingenio
+  - key: gp_line_10
+    word: "Cientos de Niveles M\xE1s por Venir"
+  - key: gp_line_11
+    word: "S\xE9 el Primero en Resolver"
+  - key: gp_line_12
+    word: 1er Solucionador en el mundo
+  - key: '{0} Coins'
+    word: '{0} Monedas'
+  - key: New Record
+    word: "Nuevo r\xE9cord"
+  - key: Free Spin
+    word: Giro Gratis
+  - key: Ads Free Continue in Challenge
+    word: "+Contin\xFAa Desaf\xEDo de Anuncios Gratis"
+  - key: All Dress Unlocked
+    word: +Todo la Vestimenta Desbloqueada
+  - key: DRESS
+    word: VESTIMENTA
+  - key: Dress
+    word: Vestimenta
+  - key: ITEM
+    word: "ART\xCDCULO"
+  - key: Draw Lines To Touch All the Bubbles
+    word: "Dibuja L\xEDneas Para \n Tocar Todas Las Burbujas"
+  - key: Draw Lines To Guide The Ball
+    word: "Dibuja L\xEDneas Para \n Guiar La Bola"
+  - key: CHALLENGE
+    word: "Desaf\xEDo"
+  - key: CONTINUE
+    word: CONTINUAR
+  - key: FAIL
+    word: ERROR
+  - key: TRY OUR NEW GAME AND GET COINS!
+    word: "\xA1PRUEBA NUESTRO NUEVO JUEGO Y CONSIGUE MONEDAS!"
+  - key: RESTART
+    word: REINICIAR
+  - key: Get VIP to unlock all dress
+    word: Consigue VIP para desbloquear todo el vestido.
+  - key: Hat
+    word: Sombrero
+  - key: PLAY
+    word: JUGAR
+  - key: Challenge Only
+    word: "S\xF3lo desaf\xEDo"
+  - key: Finish the challenge to collect
+    word: Termina el reto de coleccionar.
+  - key: then
+    word: entonces
+  - key: AD Break
+    word: tomar un descanso
+  - key: CONGRATS
+    word: Felicidades
+  - key: You claim {0} coins
+    word: Usted reclama {0} monedas
+  - key: Next Login Bonus
+    word: "Pr\xF3ximo bono de inicio de sesi\xF3n"
+  - key: Wanna Start A New Level
+    word: "\xBFQuieres comenzar un nuevo nivel"
+  - key: START
+    word: COMIENZO
+  - key: LATER
+    word: LUEGO
+  - key: COLLECTED
+    word: RECOGIDO
+  - key: DAY
+    word: "D\xCDA"
+  - key: DAILY BONUS
+    word: BONUS DIARIO
+  - key: CHECK IN
+    word: REGISTRARSE
+  - key: WATCH ADS
+    word: VER ANUNCIOS
+  - key: COLLECT THE ITEM
+    word: Recoger el articulo
+  - key: You collect a new skin
+    word: You collect a new skin
+  - key: Have a nice day
+    word: "Que tengas un buen d\xEDa :)"
+  - key: You Need
+    word: Necesitas
+  - key: To Unlock Chapter
+    word: Para desbloquear capitulo
+  - key: YES, CONTINUE
+    word: Si continua
+  - key: YES, WATCH AD
+    word: "S\xED, ver anuncio"
+  - key: NO, GIVE UP
+    word: "No, r\xEDndete"
+  - key: Confirm To Skip The Level?
+    word: "\xBFConfirmar para saltar el nivel?"
+  - key: Skip
+    word: Omitir
+  - key: Cancel
+    word: Cancelar
+  - key: All Mini Games Unlocked
+    word: +Todos los mini juegos desbloqueados
+  - key: ACTION
+    word: "ACCI\xD3N"
+  - key: TOY
+    word: JUGUETE
+  - key: USE
+    word: UTILIZAR
+  - key: Wait a minute to do this again!
+    word: "\xA1Espera un minuto para hacer esto otra vez!"
+  - key: Watch video to finish now
+    word: Mira el video para terminar ahora
+  - key: Finish Now
+    word: Termina ahora
+  - key: OFF
+    word: OFF
+  - key: ON
+    word: ON
+  - key: You
+    word: You
+  - key: You don't have this skill now
+    word: No tienes esta habilidad ahora
+  - key: Can't do this right now, he is sleeping!
+    word: "No puedo hacer esto ahora mismo, \xA1\xE9l est\xE1 durmiendo!"
+  - key: You Need
+    word: Necesitas
+  - key: To Unlock This
+    word: Para desbloquear este
+  - key: Restore
+    word: Restaurar
+  - key: 3 Days Free Trial
+    word: "3 d\xEDas de prueba gratis"
+  - key: $ 9.99/Week
+    word: $ 9.99/ Semana
+  - key: Watch Video To Try One Level.
+    word: Ver video para probar un nivel.
+  - key: BECOME {0}TO UNLOCK ALL GAMES
+    word: CONVIERTE EN {0} PARA DESBLOQUEAR TODOS LOS JUEGOS
+  - key: tip_1
+    word: "Monedas? \xA1Consigue monedas jugando mini juegos!"
+  - key: tip_2
+    word: "\xBFAficionados? \xA1Consigue fans por ACCI\xD3N y JUGUETE!"
+  - key: tip_3
+    word: "\xBFEstrellas? \xA1Consigue estrellas jugando mini juegos!"
+  - key: tip_4
+    word: "\xA1Pon a los fans fuera de l\xEDnea cuando tu alien\xEDgena est\xE1 en
+      la sala en vivo!"
+  - key: tip_5
+    word: "\xA1Cada estado rojo significa que ya no hay FANS inactivos!"
+  - key: LOADING ...
+    word: CARGANDO ...
+  - key: TERMS OF USE
+    word: "T\xC9RMINOS DE USO"
+  - key: PRIVACY POLICY
+    word: "POL\xCDTICA DE PRIVACIDAD"
+  - key: RESTORE
+    word: RESTAURAR
+  - key: Fans
+    word: Aficionados
+  - key: Stars
+    word: Estrellas
+  - key: Becoming VIP
+    word: Convertirse en VIP
+  - key: ACHIEVEMENT
+    word: LOGRO
+  - key: NEW ACHIEVEMENT
+    word: NUEVO LOGRO
+  - key: When you away, you get {0} fans!
+    word: Cuando te vas, obtienes {0} fans!
+  - key: pop_up_text_1
+    word: "\xA1Feliz es tu mascota alien\xEDgena, consigue la mayor cantidad de fan\xE1ticos
+      posible, \xE9l quiere ser la mejor estrella viva del mundo!"
+  - key: pop_up_text_2
+    word: "\xA1Juega minijuegos para conseguir monedas y abanicos!"
+  - key: You need {0} {1} to unlock it!
+    word: Necesitas {0} {1} para desbloquearlo!
+  - key: Not enough coins
+    word: No hay suficientes monedas
+  - key: "Daily\_Extra\_Coins\_"
+    word: +400 monedas diarias
+  - key: T A P   T O   S T A R T
+    word: TAP TO START
+  - key: MAP
+    word: MAP
+  - key: CLEAR
+    word: CLEAR
+  - key: TAP TO NEXT LEVEL
+    word: TAP TO NEXT LEVEL
+  - key: COMBO
+    word: COMBO
+  - key: PASSED
+    word: PASSED
+  - key: SCORE
+    word: SCORE
+  - key: Score Booster
+    word: Score Booster
+  - key: Points from fruit
+    word: Points from fruit
+  - key: Coin Booster
+    word: Coin Booster
+  - key: Coins from chest
+    word: Coins from chest
+  - key: POWERUPS
+    word: POWERUPS
+  - key: SKINS
+    word: SKINS
+  - key: UNLIMITED ENERGY
+    word: UNLIMITED ENERGY
+  - key: 3 UNIQUE SKINS
+    word: 3 UNIQUE SKINS
+  - key: REFILL TO 5
+    word: REFILL TO 5
+  - key: WATCH VIDEO
+    word: WATCH VIDEO
+  - key: REPLAY
+    word: REPLAY
+  - key: Guide1
+    word: Desliza para mover o girar
+  - key: Guide2
+    word: Desliza de nuevo para saltar
+  - key: D E F E A T
+    word: D E R R O T A
+  - key: REMOVE ADS
+    word: QUITAR ANUNCIOS
+  - key: EXIT
+    word: SALIDA
+  - key: CONFIRM TO EXIT?
+    word: "\xBFCONFIRMAR PARA SALIR?"
+  - key: PLAY ON
+    word: "\xBFContinuar?"
+  - key: QuizName_Logo
+    word: Logo
+  - key: QuizName_Animal
+    word: Animal
+  - key: QuizName_Movie
+    word: Movie
+  - key: QuizName_Flower
+    word: Flower
+  - key: QuizName_Sport
+    word: Sport
+  - key: QuizName_Landmark
+    word: Landmark
+  - key: QuizName_Soccer
+    word: Soccer
+  - key: QuizName_Exhibit
+    word: Exhibit
+  - key: QuizName_General
+    word: General
+  - key: QuizName_Proverb
+    word: Proverb
+  - key: QuizName_Lyrics
+    word: Lyrics
+  - key: QuizName_Brazil
+    word: Brasil
+  - key: QuizName_India
+    word: "\xCDndia"
+  - key: QuizName_Thailand
+    word: "Tail\xE2ndia"
+  - key: QuizName_Word
+    word: "Tail\xE2ndia"
+  - key: Name_gold
+    word: Coin
+  - key: Name_cash
+    word: Cash
+  - key: Name_item_pass
+    word: Pass Card
+  - key: Name_item_bomb
+    word: Bomb
+  - key: Name_card_1
+    word: Steel Box
+  - key: Name_card_2
+    word: Silver Box
+  - key: Name_card_3
+    word: Ruby Box
+  - key: Name_card_4
+    word: Emerald Box
+  - key: Steel Box
+    word: Steel Box
+  - key: Silver Box
+    word: Silver Box
+  - key: Ruby Box
+    word: Ruby Box
+  - key: Emerald Box
+    word: Emerald Box
+  - key: 'Scractch Chance Left:'
+    word: 'Scractch Chance Left:'
+  - key: Watch a video and Get a Treasure Box
+    word: Watch a video and Get a Treasure Box
+  - key: Get More Boxes
+    word: Get More Boxes
+  - key: Unlock on second day
+    word: Unlock on second day
+  - key: Prize
+    word: Prize
+  - key: BIG SALE
+    word: BIG SALE
+  - key: GET
+    word: GET
+  - key: Tap To Continue
+    word: Tap To Continue
+  - key: TOTAL BONUS
+    word: TOTAL BONUS
+  - key: REWARD
+    word: REWARD
+  - key: RETRY
+    word: RETRY
+  - key: Accuracy
+    word: Accuracy
+  - key: ENERGY
+    word: ENERGY
+  - key: TIME TO NEXT ENERGY
+    word: TIME TO NEXT ENERGY
+  - key: WATCH VIDEO
+    word: WATCH VIDEO
+  - key: 'LEFT:'
+    word: 'LEFT:'
+  - key: Free
+    word: Free
+  - key: FREE
+    word: TEST
+  - key: 1. Play Scratcher and Win Real MONEY!
+    word: TEST
+  - key: "2. CASH OUT ANY TIME\uFF01"
+    word: TEST
+  - key: Scratcher Tip
+    word: TEST
+  - key: 'You have completed an achievement:'
+    word: TEST
+  - key: CLAIM
+    word: TEST
+  - key: 1 Pass quizzes and get chests.
+    word: TEST
+  - key: 2 Win real money!
+    word: TEST
+  - key: 3 Cash out Any Time!
+    word: TEST
+  - key: Level
+    word: TEST
+  - key: Next
+    word: TEST
+  - key: Welcome! Tap here to start.
+    word: TEST
+  - key: Tap here to choose the level you want.
+    word: TEST
+  - key: Speed Stick
+    word: TEST
+  - key: Let's choose the correct answer.
+    word: TEST
+  - key: Well done. You get the reward you deserve.Let's open it.
+    word: TEST
+  - key: Enjoy yourself in our game
+    word: TEST
+  - key: SPIN
+    word: TEST
+  - key: BONUS REWARD
+    word: TEST
+  - key: Unlock on second day
+    word: TEST
+  - key: Unlock on finish a level
+    word: TEST
+  - key: More Treasure Box
+    word: TEST
+  - key: Watch a video and Get a Treasure Box!
+    word: TEST
+  - key: Get More Boxs
+    word: TEST
+  - key: Next
+    word: TEST
+  - key: CHECKIN
+    word: TEST
+  - key: LUCKY CARD
+    word: TEST
+  - key: SCRATCHER
+    word: TEST
+  - key: ACHIEVE
+    word: TEST
+  - key: SETTING
+    word: TEST
+  - key: QUIZ BATTLE
+    word: TEST
+  - key: DISCONNECT
+    word: TEST
+  - key: Please check your connection!
+    word: TEST
+  - key: Your support is precious to us!
+    word: TEST
+  - key: RATE US
+    word: TEST
+  - key: REDEEM
+    word: TEST
+  - key: WINNER
+    word: TEST
+  - key: Lanugage
+    word: TEST
+  - key: Sound
+    word: TEST
+  - key: Time Limited BIG SALE !
+    word: TEST
+  - key: Get 500 coins everyday
+    word: TEST
+  - key: Remove ads
+    word: TEST
+  - key: FREE TRIAL
+    word: TEST
+  - key: 3 Days Free Trial
+    word: TEST
+  - key: then $8.49/mon($99.99/yrl). Cancel Anytime
+    word: TEST
+  - key: ios_year_vip_info
+    word: TEST
+  - key: android_year_info
+    word: TEST
+  - key: Monthly VIP
+    word: TEST
+  - key: Yearly VIP For $49.99/Year
+    word: Yearly VIP For $49.99/Year
+  - key: Monthly VIP For $9.99/Month
+    word: Monthly VIP For $9.99/Month
+  - key: 3-Day free trial. Then $15.99/mon
+    word: TEST
+  - key: 3-Day free trial. Then $9.99/mon
+    word: TEST
+  - key: 3-Day Free Trial
+    word: TEST
+  - key: Animal
+    word: TEST
+  - key: Flower
+    word: TEST
+  - key: General
+    word: TEST
+  - key: Logo
+    word: TEST
+  - key: Movie
+    word: TEST
+  - key: Flag
+    word: TEST
+  - key: Lyrics
+    word: TEST
+  - key: Proverb
+    word: TEST
+  - key: Science
+    word: TEST
+  - key: Sport
+    word: TEST
+  - key: Soccer
+    word: TEST
+  - key: Exhibit
+    word: TEST
+  - key: Music
+    word: TEST
+  - key: Song
+    word: TEST
+  - key: History
+    word: TEST
+  - key: Landmark
+    word: TEST
+  - key: People
+    word: TEST
+  - key: Slove
+    word: TEST
+  - key: Brazil
+    word: Brasil
+  - key: Thailand
+    word: "Tail\xE2ndia"
+  - key: Word
+    word: Word
+  - key: Illusion
+    word: "Ilus\xE3o"
+  - key: WordAnimal
+    word: Animal e Palavra
+  - key: WordFruit
+    word: Fruta e Palavra
+  - key: quizs to unlock
+    word: TEST
+  - key: India
+    word: "\xCDndio"
+  - key: Level
+    word: TEST
+  - key: SURVIVAL
+    word: certo ou errado
+  - key: Survival
+    word: certo ou errado
+  - key: VS BATTLE
+    word: QUIZ Battle
+  - key: Attempt
+    word: TEST
+  - key: Eraser
+    word: TEST
+  - key: Pass
+    word: TEST
+  - key: Remove one incorrect answer!
+    word: TEST
+  - key: Show the correct answer!
+    word: TEST
+  - key: BattleTitle_Logo
+    word: Logo
+  - key: BattleTitle_Flag
+    word: Which contry is it?
+  - key: BattleTitle_Animal
+    word: Animal
+  - key: BattleTitle_Movie
+    word: Movie
+  - key: BattleTitle_Flower
+    word: Flower
+  - key: BattleTitle_Sport
+    word: Sport
+  - key: BattleTitle_Landmark
+    word: Landmark
+  - key: BattleTitle_Soccer
+    word: Soccer
+  - key: BattleTitle_Exhibit
+    word: Exhibit
+  - key: BattleTitle_General
+    word: General
+  - key: BattleTitle_Proverb
+    word: Proverb
+  - key: BattleTitle_Lyrics
+    word: Lyrics
+  - key: BattleTitle_Brazil
+    word: Brasil
+  - key: BattleTitle_Thailand
+    word: "Tail\xE2ndia"
+  - key: BattleTitle_Food
+    word: "Tail\xE2ndia"
+  - key: GetCoinString
+    word: Get {0} Coins For
+  - key: quizAchieve
+    word: Complete {0} {1} quizzes
+  - key: chestAchieve
+    word: Open {0} chests
+  - key: cardAchieve
+    word: Use {0} lucky cards
+  - key: errorAchieve
+    word: Use {0} lives
+  - key: lotteryAchieve
+    word: Turn the wheel {0} times
+  - key: Accuracy
+    word: Accuracy
+  - key: (AD Free is not included in 3 Day Free-Trial)
+    word: "(AD Free n\xE3o est\xE1 inclu\xEDdo em 3 dias de teste gratuito)"
+  - key: quizTask
+    word: "Complete {0} question\xE1rios "
+  - key: chestTask
+    word: "Abra 3 Ba\xFAs"
+  - key: cardTask
+    word: "Raspadinha {0} Cart\xF5es de Sorte "
+  - key: lotteryTask
+    word: 'Girar {0} roda livre '
+  - key: accuracyTask
+    word: "Tornar o n\xEDvel {0} de {1} {2: 0%} correto"
+  - key: Good! You have completed a mission and come to collect your reward.
+    word: "Boa! Voc\xEA completou uma miss\xE3o e veio recolher sua recompensa."
+  - key: Download
+    word: Baixar
+  - key: Question0
+    word: Pergunta {0}
+  - key: people0
+    word: '{0}'
+  - key: HINT
+    word: DICA
+  - key: LEADERBOARD
+    word: ENTRE OS MELHORES
+  - key: FREE TICKET
+    word: "BILHETE GR\xC1TIS"
+  - key: Challenge
+    word: Desafio
+  - key: cost
+    word: custo
+  - key: DAILY GIFT
+    word: "PRESENTE DI\xC1RIO"
+  - key: Hint_Q1
+    word: 'Q1: como jogar?'
+  - key: Hint_Q2
+    word: 'P2: Recompensas de Atividade'
+  - key: Hint_Q3
+    word: "Q3: dura\xE7\xE3o da atividade"
+  - key: Hint_Q4
+    word: "Q4: problemas e solu\xE7\xF5es"
+  - key: Hint_A1
+    word: "R: Quanto menor o tempo para responder \xE0s perguntas, maior ser\xE1 a
+      pontua\xE7\xE3o. Lute contra milh\xF5es de jogadores em todo o mundo e ven\xE7a
+      o campe\xE3o."
+  - key: Hint_A2
+    word: "A: Quanto menor o tempo que responde \xE0 pergunta"
+  - key: Hint_A3
+    word: "R: A distribui\xE7\xE3o de recompensas com base no ranking dos jogadores.
+      Os 1.000 usu\xE1rios receber\xE3o recompensas generosas."
+  - key: Hint_A4
+    word: "R: Ap\xF3s o t\xE9rmino da atividade, o aplicativo pode n\xE3o conseguir
+      receber a recompensa imediatamente, e o jogador pode reiniciar o aplicativo
+      para corrigi-lo."
+  - key: MATCHING
+    word: COINCIDINDO
+  - key: Join VIP play all premium levels
+    word: "Adira ao VIP e jogue todos os n\xEDveis premium"
+  - key: Unlock this level
+    word: "Desbloqueie este n\xEDvel"
+  - key: This is a premium Level!
+    word: "Este \xE9 um n\xEDvel premium!"
+  - key: Bonus
+    word: "B\xF4nus"
+  - key: Entrance fee
+    word: Taxa de entrada

@@ -18,7 +18,7 @@ public class I18n : ScriptableObject
     {
         get
         {
-            string jsonPath = Path.Combine(Application.dataPath, @"../ExcelData/Json");
+            string jsonPath = Path.Combine(Application.dataPath, @"I18n/ExcelData/Json");
             string fullPath = Path.GetFullPath(jsonPath);
             return fullPath;
         }

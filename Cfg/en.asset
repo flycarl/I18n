@@ -1,0 +1,821 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 543ae21d8397d4564a7e221759be361e, type: 3}
+  m_Name: en
+  m_EditorClassIdentifier: 
+  words:
+  - key: languageName
+    word: English
+  - key: COIN SHOP
+    word: COIN SHOP
+  - key: DAILY GIFT
+    word: DAILY GIFT
+  - key: VIP SUBSCRIPTION
+    word: VIP SUBSCRIPTION
+  - key: GET
+    word: GET
+  - key: COINS
+    word: COINS
+  - key: WATCH VIDEO FOR
+    word: WATCH VIDEO FOR
+  - key: VIP DOUBLE COLLECT
+    word: VIP DOUBLE COLLECT
+  - key: Next Gift
+    word: Next Gift
+  - key: SUPER PACK
+    word: SUPER PACK
+  - key: Non-Rewarded Ads Removed
+    word: +Non-Rewarded Ads Removed
+  - key: Limited Skin
+    word: +Limited Skin
+  - key: SUBSCRIPTION
+    word: SUBSCRIPTION
+  - key: 3 Days Free Trail
+    word: 3 Days Free Trial
+  - key: First 2 Hints Free Everyday
+    word: +First 2 Hints Free Everyday
+  - key: Daily Gift Double Collect
+    word: +Daily Gift Double Collect
+  - key: VIP Only Skins
+    word: +VIP Only Skins
+  - key: WEEKLY
+    word: WEEKLY
+  - key: SPECIAL
+    word: SPECIAL
+  - key: MONTHLY
+    word: MONTHLY
+  - key: Weekly Special
+    word: Weekly Special
+  - key: Monthly Special
+    word: Monthly Special
+  - key: Yearly Special
+    word: Yearly Special
+  - key: / Week
+    word: / Week
+  - key: / Month
+    word: / Month
+  - key: / Year
+    word: / Year
+  - key: SKIN SHOP
+    word: SKIN SHOP
+  - key: USING
+    word: USING
+  - key: Subscription Only
+    word: Subscription Only
+  - key: Super Pack Only
+    word: Super Pack Only
+  - key: BackGround
+    word: Background
+  - key: Ball
+    word: Ball
+  - key: Pen
+    word: Pen
+  - key: Ink
+    word: Ink
+  - key: USE
+    word: USE
+  - key: RESTORE
+    word: RESTORE
+  - key: SHARE
+    word: SHARE
+  - key: guide_text_line
+    word: Draw a line
+  - key: guide_text_bridge
+    word: Draw a bridge
+  - key: guide_text_slope
+    word: Draw a slope
+  - key: guide_text_lines
+    word: Draw two lines
+  - key: guide_text_block
+    word: Draw a line,stop the block
+  - key: CHAPTER
+    word: CHAPTER
+  - key: LEVEL
+    word: LEVEL
+  - key: LAST PLAY
+    word: LAST PLAY
+  - key: NEXT
+    word: NEXT
+  - key: Ink Left
+    word: Ink Left
+  - key: Record
+    word: Record
+  - key: LEVEL WIN
+    word: LEVEL WIN
+  - key: WATCH VIDEO TO SPIN
+    word: WATCH VIDEO FOR REWARDS
+  - key: REWARD
+    word: REWARD
+  - key: OK
+    word: OK
+  - key: WATCH VIDEO TO TRY AGAIN
+    word: WATCH VIDEO TO TRY AGAIN
+  - key: winlose_text_aliright
+    word: Alright
+  - key: winlose_text_okay
+    word: Okay
+  - key: winlose_text_pass
+    word: That's pass
+  - key: winlose_text_goodjob
+    word: Good job
+  - key: winlose_text_sofar
+    word: So far so good
+  - key: winlose_text_hero
+    word: You're a hero
+  - key: winlose_text_notbad
+    word: Not bad,not bad
+  - key: winlose_text_unstoppable
+    word: You're unstoppable
+  - key: winlose_text_wow
+    word: WOW
+  - key: chanllenge_title_angry
+    word: Angry Alien {0}
+  - key: chanllenge_title_basket_1
+    word: Basketball 1
+  - key: chanllenge_title_basket_2
+    word: Basketball 2
+  - key: chanllenge_title_basket_3
+    word: Basketball 3
+  - key: chanllenge_title_basket_4
+    word: Basketball 4
+  - key: chanllenge_title_line_1
+    word: Touching Line 1
+  - key: chanllenge_title_line_2
+    word: Touching Line 2
+  - key: chanllenge_title_line_3
+    word: Touching Line 3
+  - key: chanllenge_title_line_4
+    word: Touching Line 4
+  - key: chanllenge_title_line_5
+    word: Touching Line 5
+  - key: chanllenge_title_line_6
+    word: Touching Line 6
+  - key: chanllenge_title_deep
+    word: 'Deep Cave {0} '
+  - key: Easy
+    word: Easy
+  - key: Normal
+    word: Normal
+  - key: Hard
+    word: Hard
+  - key: LIKE OUR GAME?
+    word: LIKE OUR GAME?
+  - key: Please give us a rate!
+    word: Please give us a rate!
+  - key: Thanks for your rate!
+    word: Thanks for your rate!
+  - key: SUBMIT
+    word: SUBMIT
+  - key: Continue?
+    word: Continue?
+  - key: Return
+    word: Return
+  - key: Back Home
+    word: Back Home
+  - key: CHALLENGE SUCCESS!
+    word: CHALLENGE SUCCESS!
+  - key: World Rank
+    word: World Rank
+  - key: Check
+    word: Check
+  - key: VIP
+    word: VIP
+  - key: role_talk_1
+    word: Hey,you want beat me? Try it~
+  - key: role_talk_2
+    word: HAHA, You can't hit me every time!
+  - key: role_talk_3
+    word: Is anybody there?
+  - key: role_talk_4
+    word: How dare this planet is!
+  - key: role_talk_5
+    word: I can handle this!
+  - key: role_talk_6
+    word: Nobody can hit me!
+  - key: role_talk_7
+    word: I'm in the shadow...
+  - key: role_talk_8
+    word: You can't hit me this time!
+  - key: main_page_video_left
+    word: 'Daily Video Left: '
+  - key: gp_line_1
+    word: Draw Lines to Hit It !
+  - key: gp_line_2
+    word: Addictive stor
+  - key: gp_line_3
+    word: Destroy the alien army
+  - key: gp_line_4
+    word: Customize your characte
+  - key: gp_line_5
+    word: Design your unique solution
+  - key: gp_line_6
+    word: Outsmart others
+  - key: gp_line_7
+    word: Break the record
+  - key: gp_line_8
+    word: 2019 All New Themes
+  - key: gp_line_9
+    word: Sharpen your min
+  - key: gp_line_10
+    word: Hundreds of More Levels Coming
+  - key: gp_line_11
+    word: Be the First Solve
+  - key: gp_line_12
+    word: 1st Solver in the world
+  - key: '{0} Coins'
+    word: '{0} Coins'
+  - key: New Record
+    word: New Record
+  - key: Free Spin
+    word: Free Spin
+  - key: Ads Free Continue in Challenge
+    word: +Ads Free Continue in Challenge
+  - key: All Dress Unlocked
+    word: +All Dress Unlocked
+  - key: DRESS
+    word: DRESS
+  - key: Dress
+    word: Dress
+  - key: ITEM
+    word: ITEM
+  - key: Draw Lines To Touch All the Bubbles
+    word: Draw Lines To Touch All the Bubbles
+  - key: Draw Lines To Guide The Ball
+    word: Draw Lines To Guide The Ball
+  - key: CHALLENGE
+    word: CHALLENGE
+  - key: CONTINUE
+    word: CONTINUE
+  - key: FAIL
+    word: FAIL
+  - key: TRY OUR NEW GAME AND GET COINS!
+    word: TRY OUR NEW GAME AND GET COINS!
+  - key: RESTART
+    word: RESTART
+  - key: Get VIP to unlock all dress
+    word: Get VIP to unlock all dress
+  - key: Hat
+    word: Hat
+  - key: PLAY
+    word: PLAY
+  - key: Challenge Only
+    word: Challenge Only
+  - key: Finish the challenge to collect
+    word: Finish the challenge to collect
+  - key: then
+    word: then
+  - key: AD Break
+    word: AD Break
+  - key: CONGRATS
+    word: CONGRATS
+  - key: You claim {0} coins
+    word: You claim {0} coins
+  - key: Next Login Bonus
+    word: Next Login Bonus
+  - key: Wanna Start A New Level
+    word: Wanna Start A New Level
+  - key: START
+    word: START
+  - key: LATER
+    word: LATER
+  - key: COLLECTED
+    word: COLLECTED
+  - key: DAY
+    word: DAY
+  - key: DAILY BONUS
+    word: DAILY BONUS
+  - key: CHECK IN
+    word: CHECK IN
+  - key: WATCH ADS
+    word: WATCH ADS
+  - key: COLLECT THE ITEM
+    word: COLLECT THE ITEM
+  - key: You collect a new skin
+    word: You collect a new skin
+  - key: Have a nice day
+    word: Have a nice day
+  - key: You Need
+    word: You Need
+  - key: To Unlock Chapter
+    word: To Unlock Chapter
+  - key: YES, CONTINUE
+    word: YES, CONTINUE
+  - key: YES, WATCH AD
+    word: YES, WATCH AD
+  - key: NO, GIVE UP
+    word: NO, GIVE UP
+  - key: Confirm To Skip The Level?
+    word: Confirm To Skip The Level?
+  - key: Skip
+    word: Skip
+  - key: Cancel
+    word: Cancel
+  - key: All Mini Games Unlocked
+    word: +All Mini Games Unlocked
+  - key: ACTION
+    word: ACTION
+  - key: TOY
+    word: TOY
+  - key: USE
+    word: USE
+  - key: Wait a minute to do this again!
+    word: Wait a minute to do this again!
+  - key: Watch video to finish now
+    word: Watch video to finish now
+  - key: Finish Now
+    word: Finish Now
+  - key: OFF
+    word: OFF
+  - key: ON
+    word: ON
+  - key: You
+    word: You
+  - key: You don't have this skill now
+    word: You don't have this skill now
+  - key: Can't do this right now, he is sleeping!
+    word: Can't do this right now, he is sleeping!
+  - key: You Need
+    word: You Need
+  - key: To Unlock This
+    word: To Unlock This
+  - key: Restore
+    word: Restore
+  - key: 3 Days Free Trial
+    word: 3 Days Free Trial
+  - key: $ 9.99/Week
+    word: $ 9.99/Week
+  - key: Watch Video To Try One Level.
+    word: Watch Video To Try One Level.
+  - key: BECOME {0}TO UNLOCK ALL GAMES
+    word: BECOME {0}TO UNLOCK ALL GAMES
+  - key: tip_1
+    word: Coins? Get coins by playing mini games!
+  - key: tip_2
+    word: Fans? Get fans by ACTION and TOY!
+  - key: tip_3
+    word: Stars? Get stars by playing mini games!
+  - key: tip_4
+    word: Get fans offline when your alien is in live room!
+  - key: tip_5
+    word: Each red status means no idle FANS any more!
+  - key: LOADING ...
+    word: LOADING ...
+  - key: TERMS OF USE
+    word: TERMS OF USE
+  - key: PRIVACY POLICY
+    word: PRIVACY POLICY
+  - key: RESTORE
+    word: RESTORE
+  - key: Fans
+    word: Fans
+  - key: Stars
+    word: Stars
+  - key: Becoming VIP
+    word: Becoming VIP
+  - key: ACHIEVEMENT
+    word: ACHIEVEMENT
+  - key: NEW ACHIEVEMENT
+    word: NEW ACHIEVEMENT
+  - key: When you away, you get {0} fans!
+    word: When you away, you get {0} fans!
+  - key: pop_up_text_1
+    word: Happy is your alien pet, get as many fans as possible, he want to be the
+      top live star on earth!
+  - key: pop_up_text_2
+    word: Play mini games to get coins and fans!
+  - key: You need {0} {1} to unlock it!
+    word: You need {0} {1} to unlock it!
+  - key: Not enough coins
+    word: Not enough coins
+  - key: "Daily\_Extra\_Coins\_"
+    word: "+400\_Coins\_Daily"
+  - key: T A P   T O   S T A R T
+    word: T A P   T O   S T A R T
+  - key: MAP
+    word: MAP
+  - key: CLEAR
+    word: CLEAR
+  - key: TAP TO NEXT LEVEL
+    word: TAP TO NEXT LEVEL
+  - key: COMBO
+    word: COMBO
+  - key: PASSED
+    word: PASSED
+  - key: SCORE
+    word: SCORE
+  - key: Score Booster
+    word: Score Booster
+  - key: Points from fruit
+    word: Points from fruit
+  - key: Coin Booster
+    word: Coin Booster
+  - key: Coins from chest
+    word: Coins from chest
+  - key: POWERUPS
+    word: POWERUPS
+  - key: SKINS
+    word: SKINS
+  - key: UNLIMITED ENERGY
+    word: UNLIMITED ENERGY
+  - key: 3 UNIQUE SKINS
+    word: 3 UNIQUE SKINS
+  - key: REFILL TO 5
+    word: REFILL TO 5
+  - key: WATCH VIDEO
+    word: WATCH VIDEO
+  - key: REPLAY
+    word: REPLAY
+  - key: Guide1
+    word: Swipe to move or turn
+  - key: Guide2
+    word: Swipe again to dash
+  - key: D E F E A T
+    word: D E F E A T
+  - key: REMOVE ADS
+    word: REMOVE POP-UP ADS
+  - key: EXIT
+    word: EXIT
+  - key: CONFIRM TO EXIT?
+    word: CONFIRM TO EXIT?
+  - key: PLAY ON
+    word: PLAY ON
+  - key: QuizName_Logo
+    word: Logo
+  - key: QuizName_Animal
+    word: Animal
+  - key: QuizName_Movie
+    word: Movie
+  - key: QuizName_Flower
+    word: Flower
+  - key: QuizName_Sport
+    word: Sport
+  - key: QuizName_Landmark
+    word: Landmark
+  - key: QuizName_Soccer
+    word: Soccer
+  - key: QuizName_Exhibit
+    word: Exhibit
+  - key: QuizName_General
+    word: General
+  - key: QuizName_Proverb
+    word: Proverb
+  - key: QuizName_Lyrics
+    word: Lyrics
+  - key: QuizName_Brazil
+    word: Brazil
+  - key: QuizName_India
+    word: India
+  - key: QuizName_Thailand
+    word: Thailand
+  - key: QuizName_Word
+    word: Pics & Word
+  - key: Name_gold
+    word: Coin
+  - key: Name_cash
+    word: Cash
+  - key: Name_item_pass
+    word: Pass Card
+  - key: Name_item_bomb
+    word: Bomb
+  - key: Name_card_1
+    word: Steel Box
+  - key: Name_card_2
+    word: Silver Box
+  - key: Name_card_3
+    word: Ruby Box
+  - key: Name_card_4
+    word: Emerald Box
+  - key: Steel Box
+    word: Steel Box
+  - key: Silver Box
+    word: Silver Box
+  - key: Ruby Box
+    word: Ruby Box
+  - key: Emerald Box
+    word: Emerald Box
+  - key: 'Scractch Chance Left:'
+    word: 'Scractch Chance Left:'
+  - key: Watch a video and Get a Treasure Box
+    word: Watch a video and Get a Treasure Box
+  - key: Get More Boxes
+    word: Get More Boxes
+  - key: Unlock on second day
+    word: Unlock on second day
+  - key: Prize
+    word: Prize
+  - key: BIG SALE
+    word: BIG SALE
+  - key: GET
+    word: GET
+  - key: Tap To Continue
+    word: Tap To Continue
+  - key: TOTAL BONUS
+    word: TOTAL BONUS
+  - key: REWARD
+    word: REWARD
+  - key: RETRY
+    word: RETRY
+  - key: Accuracy
+    word: Accuracy
+  - key: ENERGY
+    word: ENERGY
+  - key: TIME TO NEXT ENERGY
+    word: TIME TO NEXT ENERGY
+  - key: WATCH VIDEO
+    word: WATCH VIDEO
+  - key: 'LEFT:'
+    word: 'LEFT:'
+  - key: Free
+    word: Free
+  - key: FREE
+    word: FREE
+  - key: 1. Play Scratcher and Win Real MONEY!
+    word: 1. Play Scratcher and Win Real MONEY!
+  - key: "2. CASH OUT ANY TIME\uFF01"
+    word: "2. CASH OUT ANY TIME\uFF01"
+  - key: Scratcher Tip
+    word: Scratcher Tip
+  - key: 'You have completed an achievement:'
+    word: 'You have completed an achievement:'
+  - key: CLAIM
+    word: CLAIM
+  - key: 1 Pass quizzes and get chests.
+    word: 1 Pass quizzes and get chests.
+  - key: 2 Win real money!
+    word: 2 Win real money!
+  - key: 3 Cash out Any Time!
+    word: 3 Cash out Any Time!
+  - key: Level
+    word: Level
+  - key: Next
+    word: Next
+  - key: Welcome! Tap here to start.
+    word: Welcome! Tap here to start.
+  - key: Tap here to choose the level you want.
+    word: Tap here to choose the level you want.
+  - key: Speed Stick
+    word: Speed Stick
+  - key: Let's choose the correct answer.
+    word: Let's choose the correct answer.
+  - key: Well done. You get the reward you deserve.Let's open it.
+    word: Well done. You get the reward you deserve.Let's open it.
+  - key: Enjoy yourself in our game
+    word: Enjoy yourself in our game
+  - key: SPIN
+    word: SPIN
+  - key: BONUS REWARD
+    word: BONUS REWARD
+  - key: Unlock on second day
+    word: Unlock on second day
+  - key: Unlock on finish a level
+    word: Unlock on finish a level
+  - key: More Treasure Box
+    word: More Treasure Box
+  - key: Watch a video and Get a Treasure Box!
+    word: Watch a video and Get a Treasure Box!
+  - key: Get More Boxs
+    word: Get More Boxs
+  - key: Next
+    word: Next
+  - key: CHECKIN
+    word: CHECKIN
+  - key: LUCKY CARD
+    word: LUCKY CARD
+  - key: SCRATCHER
+    word: SCRATCHER
+  - key: ACHIEVE
+    word: ACHIEVE
+  - key: SETTING
+    word: SETTING
+  - key: QUIZ BATTLE
+    word: QUIZ BATTLE
+  - key: DISCONNECT
+    word: DISCONNECT
+  - key: Please check your connection!
+    word: Please check your connection!
+  - key: Your support is precious to us!
+    word: Your support is precious to us!
+  - key: RATE US
+    word: RATE US
+  - key: REDEEM
+    word: REDEEM
+  - key: WINNER
+    word: WINNER
+  - key: Lanugage
+    word: Lanugage
+  - key: Sound
+    word: Sound
+  - key: Time Limited BIG SALE !
+    word: Time Limited BIG SALE !
+  - key: Get 500 coins everyday
+    word: Get 500 coins everyday
+  - key: Remove ads
+    word: Remove ads
+  - key: FREE TRIAL
+    word: FREE TRIAL
+  - key: 3 Days Free Trial
+    word: 3 Days Free Trial
+  - key: then $8.49/mon($99.99/yrl). Cancel Anytime
+    word: then $69.99/yrl($5.99/mon). Cancel Anytime
+  - key: ios_year_vip_info
+    word: 3-Day free trial. then $49.99/year
+  - key: android_year_info
+    word: then $5.99/mon($69.99/yrl). Cancel Anytime.
+  - key: Monthly VIP
+    word: Monthly VIP
+  - key: Yearly VIP For $49.99/Year
+    word: Yearly VIP For $49.99/Year
+  - key: Monthly VIP For $9.99/Month
+    word: Monthly VIP For $9.99/Month
+  - key: 3-Day free trial. Then $15.99/mon
+    word: '3-Day free trial. Then $15.99/mon. '
+  - key: 3-Day free trial. Then $9.99/mon
+    word: 3-Day free trial. Then $9.99/mon
+  - key: 3-Day Free Trial
+    word: 3-Day Free Trial. Cancel Anytime.
+  - key: Animal
+    word: Animal Planet
+  - key: Flower
+    word: Plants
+  - key: General
+    word: General Knowledge
+  - key: Logo
+    word: Logo
+  - key: Movie
+    word: Movie
+  - key: Flag
+    word: National Flag
+  - key: Lyrics
+    word: Song Lyrics
+  - key: Proverb
+    word: Proverb
+  - key: Science
+    word: Science
+  - key: Sport
+    word: Sport
+  - key: Soccer
+    word: Soccer
+  - key: Exhibit
+    word: Museum
+  - key: Music
+    word: Guess the song
+  - key: Song
+    word: Song
+  - key: History
+    word: History
+  - key: Landmark
+    word: World Discovery
+  - key: People
+    word: People
+  - key: Slove
+    word: Slove
+  - key: Brazil
+    word: Brazil Discovery
+  - key: Thailand
+    word: Thailand Discovery
+  - key: Word
+    word: 4 Pics & Word
+  - key: Illusion
+    word: Illusion
+  - key: WordAnimal
+    word: Animal & Word
+  - key: WordFruit
+    word: Fruit & Word
+  - key: quizs to unlock
+    word: quizzes to unlock
+  - key: India
+    word: India Discovery
+  - key: Level
+    word: Level
+  - key: SURVIVAL
+    word: OX Battle
+  - key: Survival
+    word: OX Battle
+  - key: VS BATTLE
+    word: QUIZ Battle
+  - key: Attempt
+    word: Attempt
+  - key: Eraser
+    word: Eraser
+  - key: Pass
+    word: Pass
+  - key: Remove one incorrect answer!
+    word: Remove one incorrect answer!
+  - key: Show the correct answer!
+    word: Show the correct answer!
+  - key: BattleTitle_Logo
+    word: Which company is it?
+  - key: BattleTitle_Flag
+    word: Which country is it?
+  - key: BattleTitle_Animal
+    word: What animal is it?
+  - key: BattleTitle_Movie
+    word: Movie
+  - key: BattleTitle_Flower
+    word: What plant is it?
+  - key: BattleTitle_Sport
+    word: Sport
+  - key: BattleTitle_Landmark
+    word: What place is it
+  - key: BattleTitle_Soccer
+    word: Soccer
+  - key: BattleTitle_Exhibit
+    word: What exhibit is it?
+  - key: BattleTitle_General
+    word: General
+  - key: BattleTitle_Proverb
+    word: Proverb
+  - key: BattleTitle_Lyrics
+    word: Music
+  - key: BattleTitle_Brazil
+    word: Brazil
+  - key: BattleTitle_Thailand
+    word: Thailand
+  - key: BattleTitle_Food
+    word: What food is it?
+  - key: GetCoinString
+    word: Get {0} Coins For
+  - key: quizAchieve
+    word: Complete {0} {1} quizzes
+  - key: chestAchieve
+    word: Open {0} chests
+  - key: cardAchieve
+    word: Use {0} lucky cards
+  - key: errorAchieve
+    word: Use {0} lives
+  - key: lotteryAchieve
+    word: Turn the wheel {0} times
+  - key: Accuracy
+    word: Accuracy
+  - key: (AD Free is not included in 3 Day Free-Trial)
+    word: (AD Free is not included in 3 Day Free-Trial)
+  - key: quizTask
+    word: Complete {0} quizzes
+  - key: chestTask
+    word: Open 3 Chests
+  - key: cardTask
+    word: Scratch {0} Lucky Cards
+  - key: lotteryTask
+    word: Spin {0} Free Wheel
+  - key: accuracyTask
+    word: Make Level {0} of {1} {2:0%} correct
+  - key: Good! You have completed a mission and come to collect your reward.
+    word: Good! You have completed a mission and come to collect your reward.
+  - key: Download
+    word: Download
+  - key: Question0
+    word: Question {0}
+  - key: people0
+    word: '{0}'
+  - key: HINT
+    word: HINT
+  - key: LEADERBOARD
+    word: LEADERBOARD
+  - key: FREE TICKET
+    word: FREE TICKET
+  - key: Challenge
+    word: Challenge
+  - key: cost
+    word: cost
+  - key: DAILY GIFT
+    word: DAILY GIFT
+  - key: Hint_Q1
+    word: "Q1:How\_to\_play?"
+  - key: Hint_Q2
+    word: Q2:Activity Rewards
+  - key: Hint_Q3
+    word: Q3:Activity duration
+  - key: Hint_Q4
+    word: "Q4:Problems\_and\_solutions"
+  - key: Hint_A1
+    word: A:The shorter time that answer the questions,the higher score will be.Battle
+      with millions of players worldwide and win the champion.
+  - key: Hint_A2
+    word: "A:The\_shorter\_time\_that\_answer\_the\_question"
+  - key: Hint_A3
+    word: A:The reward distribution based on player ranking.Top 1,000 users will receive
+      generous rewards.
+  - key: Hint_A4
+    word: A:After the activity ends,the app may not be able to receive the reward
+      immediately,then the player can restart the app to fix it.
+  - key: MATCHING
+    word: MATCHING
+  - key: Join VIP play all premium levels
+    word: Join VIP play all premium levels
+  - key: Unlock this level
+    word: Unlock this level
+  - key: This is a premium Level!
+    word: This is a premium Level!
+  - key: Bonus
+    word: Bonus
+  - key: Entrance fee
+    word: Entrance fee

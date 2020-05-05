@@ -1,7 +1,7 @@
 {
     "name": "com.flycarl.i18n",
     "displayName": "I18n",
-    "version": "1.0.1.preview4",
+    "version": "1.0.2",
     "unity": "2018.4",
     "description": "internationalization has 18 characters between i and n"
 }
